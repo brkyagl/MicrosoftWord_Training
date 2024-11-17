@@ -55,7 +55,34 @@ Ancak, bu versiyon masaüstü sürümündeki tüm işlevselliği sunmamaktadır;
 MS Word’ü açmak için bilgisayarınızın arama çubuğuna "Word" yazın. Word simgesine sağ tıklayarak veya açarak yeni bir Word dosyası oluşturun!
 
 ![resim](https://i.ibb.co/j4sR8BB/1-Open-Word.png)
+* Halihazırda var olan bir dosyayı açmak için herhangi bir alıcı listesine de tıklayabilirsiniz.
+
+
+# Microsoft Word Başlatma Ekranı
+
+Microsoft Word'ü ilk açtığınızda, karşınıza başlangıç ekranı olarak adlandırılan anasayfa gelir. 
+Bu ekranın sol tarafında, sayfanın sağ tarafında bulunan içeriklere yönlendiren bir dikey çubuk yer alır. 
+Anasayfa, çeşitli sekmelere bağlantılar sunarak kullanıcının daha hızlı erişim sağlamasına olanak tanır.
 
 ![resim](https://i.ibb.co/JQtRbJS/2-Word.png)
 
-* Halihazırda var olan bir dosyayı açmak için herhangi bir alıcı listesine de tıklayabilirsiniz.
+## Boş Belge ile Başlayın
+
+Anasayfada, sıfırdan başlamak için kullanabileceğiniz boş bir belge bulunmaktadır. 
+Ayrıca, Microsoft Word ile hızlı bir başlangıç yapmak isteyenler için çeşitli öğrenme kılavuzları ve şablonlar da mevcuttur. 
+Daha fazla şablon görmek istiyorsanız, sol tarafta bulunan "More templates" veya "New" sekmesine tıklamanız yeterlidir.
+
+![resim](https://i.ibb.co/d4069fb/3-Word-New.png)
+
+## Son Açılan Belgeler
+
+Şablonların altında, en son açtığınız Word belgelerinin listesi yer alır. 
+Sağ kenar çubuğundaki "Open" sekmesi veya liste altındaki "More documents" bağlantısına tıklayarak daha fazla belgeye erişebilirsiniz. 
+Sıkça açılan belgeleri, "Recent" listesinin yanında yer alan "Pinned" kısmına pinleyerek hızlı erişim sağlamak da mümkündür.
+
+![resim](https://i.ibb.co/fNJBG6S/4-Word-Recent.png)
+
+## Kolay Erişim ve Kullanıcı Dostu Arayüz
+
+Microsoft Word'ün bu kullanıcı dostu arayüzü, belge oluşturma sürecinizi kolaylaştırırken, 
+çeşitli şablon ve kılavuzlarla da iş akışınıza destek olur. Böylece, hem profesyonel hem de akademik çalışmalarda verimliliğinizi artırabilirsiniz.
