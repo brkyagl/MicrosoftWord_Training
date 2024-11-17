@@ -54,5 +54,8 @@ Ancak, bu versiyon masaüstü sürümündeki tüm işlevselliği sunmamaktadır;
 
 MS Word’ü açmak için bilgisayarınızın arama çubuğuna "Word" yazın. Word simgesine sağ tıklayarak veya açarak yeni bir Word dosyası oluşturun!
 
-![resim](https://i.ibb.co/gVmqCHJ/1-Open-Word.png)
+![resim](https://i.ibb.co/j4sR8BB/1-Open-Word.png)
+
+![resim](https://i.ibb.co/JQtRbJS/2-Word.png)
+
 * Halihazırda var olan bir dosyayı açmak için herhangi bir alıcı listesine de tıklayabilirsiniz.
