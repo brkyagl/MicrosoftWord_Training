@@ -203,3 +203,56 @@ Genellikle üç farklı görünüm mevcuttur:
 Ayrıca, durum çubuğunun sağ tarafında bulunan bir zoom kaydırıcısı ile belgenizin boyutunu ayarlayarak daha iyi bir görünüm elde edebilirsiniz.
 
 ![resim](https://i.ibb.co/WPxX91m/15-Word-Status-Bar.png)
+
+# Microsoft Word Programına Başlarken
+
+Microsoft Word, metin belgeleri oluşturmak ve düzenlemek için en popüler kelime işlemci yazılımlarından biridir. 
+Microsoft Word'ü nasıl açacağınızı ve yeni bir belge oluşturma adımlarını öğreneceksiniz.
+
+## Microsoft Word’ü Açma
+
+İlk olarak, bilgisayarınızda Microsoft Word'ü bulup açmanız gerekecek. Bunun için aşağıdaki adımları izleyin:
+
+1. Bilgisayarınızın Ana Ekranı: Bilgisayarınızın ana ekranında Microsoft Word simgesini arayın.
+
+   • Eğer simge ana ekranda mevcutsa, üzerine çift tıklayarak programı açabilirsiniz.
+
+2. Başlat Menüsü: Eğer simge ana ekranda yoksa, Başlat Menüsünü açmanız gerekecek.
+
+   • Başlat Menüsüne tıklayın ve ardından "Programlar" seçeneğini bulun.
+
+   • Buradan "Microsoft Office" klasörünü bulmanız gerekebilir. Eğer bulursanız, "Microsoft Office"e tıklayın ve ardından "Word" seçeneğine tıklayarak programı açın.
+
+Bu adımları takip ettiğinizde, karşınıza boş bir belge çıkacaktır. Artık içerik yazmaya başlayabilirsiniz.
+
+![resim](https://i.ibb.co/NNRvY0j/16-Word-Empty-File.png)
+
+## Microsoft Word Başlangıç Ekranı
+
+Word'ün başlangıç ekranı, önceden açılmış belgeleri görüntülemenizi, şablonlardan yeni bir belge oluşturmanızı veya tamamen boş bir belge ile başlamanızı sağlar. 
+
+## Yeni Bir Belge Açma
+
+Yeni bir belge açmak için şu adımları izleyin:
+
+1. New Sekmesi: Ekranın üst kısmında bulunan şeritte "New" sekmesine tıklayın.
+
+2. Blank Document: Açılan menüde "Blank Document" seçeneğini bulup tıklayın.
+
+Belgeniz açıldığında, yazmaya hazır hale gelecektir. 
+
+![resim](https://i.ibb.co/qMz90x5/17-Word-Test-File.png)
+
+## Belgeyi Kaydetme
+
+Yeni bir belge oluşturduktan sonra, belgenizi kaydetmek önemlidir. İlk kez kaydederken belgenize bir isim vermeniz gerekecektir. 
+
+1. File Sekmesi: Yine "File" sekmesine tıklayın.
+
+2. Save Seçeneği: "Save" veya "Save as" seçeneğini seçin.
+
+3. Belge Adı: Belgenize uygun bir isim verin ve kaydetmek istediğiniz yeri seçin.
+
+Bu adımları takip ederek belgenizi güvenli bir şekilde kaydedebilirsiniz.
+
+![resim](https://i.ibb.co/hMqwZ3D/18-Word-Save.png)
