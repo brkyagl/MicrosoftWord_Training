@@ -304,3 +304,294 @@ Bu işlem, program penceresini küçülterek görev çubuğuna yerleştirir. Bö
 Bu iki işlem sayesinde, Word belgenizi kolayca yönetebilir ve aynı anda diğer işlerinizle ilgilenebilirsiniz.
 
 ![resim](https://i.ibb.co/7tFw6wQ/20-Word-Min-Max.png)
+
+# Microsoft Word ile Yazma ve Giriş Aygıtları
+
+Bu yazıda, bilgisayara bilgi girişi yapmanızı sağlayan aygıtları ve Microsoft Word'de yazma sürecini detaylı bir şekilde ele alacağız.
+
+## Bilgisayara Bilgi Girişi: Giriş Aygıtları
+
+Bilgisayarınıza bilgi girişi yapmak için kullandığınız aygıtlara "giriş aygıtları" denir. 
+Bu aygıtlar, bilgisayarınızla etkileşim kurmanızı sağlar. En yaygın iki giriş aygıtı klavye ve fare olarak karşımıza çıkar. 
+Bu iki aygıt, bilgisayarınızla iletişim kurabilmeniz için son derece önemlidir.
+
+## 1. Klavye
+
+Klavye, bilgisayara veri (metin, sayı, noktalama işaretleri vb.) ve komut girmek için kullanılan bir donanım parçasıdır. 
+Çoğu durumda, klavye bilgisayara bilgi girmek için en etkili yol olarak kabul edilir. 
+Harfler, sayılar, semboller ve noktalama işaretleri gibi karakterleri klavyedeki tuşlara basarak girebilirsiniz.
+
+## Klavye Tuşlarının Gruplandırılması
+
+Klavye tuşları, işlevlerine göre farklı gruplara ayrılabilir:
+
+• Alphanumeric Tuşlar: Bu tuşlar, bir daktiloda bulabileceğiniz harf, sayı, noktalama işareti ve sembolleri içerir. 
+Yazma işlemlerinde en çok kullanılan tuşlardır.
+
+• Fonksiyon Tuşları: F1, F2, F3... F12 şeklinde sıralanan bu tuşlar, belirli işlevleri yerine getirmek için kullanılır. 
+Farklı programlarda farklı işlevler üstlenebilirler.
+
+• Navigasyon Tuşları: Bu tuşlar, belgelerde ve web sayfalarında hareket etmenizi sağlar. 
+Ok tuşlarının yanı sıra "Home" ve "End" tuşları da bu grupta yer alır.
+
+## Microsoft Word'de Yazma Süreci
+
+Word'de yazarken dikkate almanız gereken bazı önemli noktalar bulunmaktadır.
+
+## Belge Oluşturma
+
+Word'de yeni bir belge oluşturmak için programı açtıktan sonra "New" seçeneğini tıklayın. Buradan boş bir belge veya şablon seçebilirsiniz.
+
+## Metin Yazma ve Düzenleme
+
+Metin yazarken, klavye üzerindeki Alphanumeric tuşları kullanarak istediğiniz bilgileri girebilirsiniz. 
+Yazdığınız metni düzenlemek için navigasyon tuşlarını kullanarak imleci istediğiniz yere taşıyabilir ve metni silebilir veya değiştirebilirsiniz.
+
+## Biçimlendirme Seçenekleri
+
+Word, metninizi daha okunabilir hale getirmek için çeşitli biçimlendirme seçenekleri sunar. 
+Yazı tipi, boyutu, rengi gibi özellikleri değiştirerek belgenizi kişiselleştirebilirsiniz. 
+Ayrıca paragrafları hizalamak ve madde işaretleri eklemek gibi seçenekler de mevcuttur.
+
+## Belgeyi Kaydetme
+
+Yazma işleminiz tamamlandığında, belgenizi kaydetmeyi unutmayın. "File" menüsünden "Save" veya "Save as" seçeneklerini kullanarak belgenizi istediğiniz konuma kaydedebilirsiniz.
+
+
+![resim](https://i.ibb.co/Cm4gXV7/21-Word-Keyboard.jpg)
+
+## Klavye ve Numerics Tuş Takımı
+
+Nümerik tuş takımı, özellikle sayısal verileri hızlı ve kolay bir şekilde girmek için tasarlanmıştır. 
+Genellikle klavyenin sağ tarafında bulunan bu tuşlar, klasik bir hesap makinesi veya ek hesap makineleri gibi düzenlenmiştir. 
+Bu, kullanıcıların sayıları daha hızlı girmesine ve toplama, çıkarma gibi işlemleri kolayca yapmasına olanak tanır.
+
+## Nümerik Tuş Takımının Anahtarları
+
+• Sayı Tuşları (0-9): Temel sayıları girmek için kullanılır.
+
+• Toplama (+), Çıkarma (-), Çarpma (×), Bölme (÷): Matematiksel işlemler yapmak için kullanılır.
+
+• Nokta (.): Sayılara ondalık eklemek için kullanılır.
+
+• Enter: Girdiğiniz sayıyı onaylamak ve bir sonraki satıra geçmek için kullanılır.
+
+## Önemli Klavye Tuşları
+
+Klavye üzerinde bulunan bazı önemli tuşlar, yazma deneyiminizi geliştiren ve iş akışınızı hızlandıran işlevler sunar:
+
+• Shift Tuşu: Büyük harf yazmak veya özel karakterleri girmek için kullanılır. 
+Örneğin, "Shift" tuşuna basılı tutarak "a" tuşuna basarsanız "A" büyük harfi elde edersiniz.
+
+• Caps Lock: Bu tuşa bastığınızda, tüm harfler büyük olarak yazılır. Tekrar bastığınızda normal duruma döner.
+
+• Tab Tuşu: Metin içinde sekme boşluğu oluşturmak veya bir sonraki alanı seçmek için kullanılır. 
+Özellikle formlarda ve belgelerde düzeni sağlamak için faydalıdır.
+
+• Enter Tuşu: Yeni bir satıra geçmek veya bir komutu onaylamak için kullanılır.
+
+• Spacebar (Boşluk Tuşu): Metin arasında boşluk bırakmak için kullanılır.
+
+• Backspace Tuşu: İmlecin solundaki karakteri siler. Hataları düzeltmek için sıkça kullanılır.
+
+• Alt Tuşu: Diğer tuşlarla birlikte kullanıldığında farklı işlevler sağlar. Örneğin, menü seçeneklerini açmak için kullanılabilir.
+
+• Ok Tuşları: İmleci yukarı, aşağı, sola veya sağa hareket ettirmek için kullanılır. Belgeler içinde gezinmeyi kolaylaştırır.
+
+## Klavye Kullanımının Önemi
+
+Klavye kullanımı, bilgisayar becerilerinin temel bir parçasıdır. Yazarken doğru tuşlara hızlı ve etkili bir şekilde erişim sağlamak, verimliliği artırır. Klavye kısayollarını öğrenmek de zaman kazandırır ve iş akışını hızlandırır. 
+
+Klavyedeki tüm tuşların işlevlerini anlamak ve doğru kullanmak, 
+Microsoft Word gibi yazılım programlarında daha etkili çalışmanıza yardımcı olacaktır. 
+Bu nedenle, klavye üzerindeki tuşları tanımak ve pratik yapmak önemlidir.
+
+## Masaüstü Klavye ve Dizüstü Klavye
+
+Dizüstü bilgisayarlar genellikle tam bir sayısal tuş takımı içermez. 
+Bu, kullanıcıların sayıları hızlı bir şekilde girmesini zorlaştırabilir. 
+Ancak, masaüstü klavyelerde genellikle tam bir sayısal tuş takımı bulunur, bu da kullanıcıların hesaplamaları daha kolay yapmasına olanak tanır.
+
+## İmleç ve Kursor Tuşları
+
+Klavye üzerinde yer alan kursor tuşları, yazarken imleci hareket ettirmek için kullanılır. 
+Bu tuşlar genellikle yazı yazma alanının etrafında yer alır ve bazen alışılmadık bir düzenlemeye sahiptir. 
+Microsoft Word'de yukarı, aşağı, sola ve sağa hareket etmek için ok tuşlarını kullanabilirsiniz.
+
+## Fonksiyon Tuşları
+
+Fonksiyon tuşları, belirli işlemleri gerçekleştirmek için kullanılan özel tuşlardır. 
+Bu tuşlara erişmek için bazen belirli kombinasyonlar kullanmanız gerekebilir. 
+Örneğin, "Fn" tuşuna basarak fonksiyon tuşlarını etkinleştirebilirsiniz.
+
+## Klavyedeki İki Sembol
+
+Her tuşun üzerinde iki sembol bulunur. Bu semboller, kullanıcının farklı işlevleri yerine getirebileceğini gösterir. 
+Örneğin, bir tuş hem harf hem de özel karakter olarak kullanılabilir.
+
+## Belge Üzerinde Yazı Yazma
+
+Bir yazılımda, e-posta veya metin kutusunda bir şeyler yazmanız gerektiğinde, dikey bir çizgi (imleç) yanıp söner. 
+Bu imleç, metni yazmaya başlayacağınız yerdir. İmleci hareket ettirmek için fareyi kullanabilir veya ok tuşlarını kullanarak istediğiniz yere geçiş yapabilirsiniz.
+
+## Ekran Klavyesini Kullanma
+
+Ekran klavyesini kullanmak istediğinizde aşağıdaki adımları izleyebilirsiniz:
+
+1. Bilgisayarınızda "Başlat" menüsüne gidin.
+
+2. "Ayarlar" seçeneğini seçin.
+
+3. "Erişim Kolaylığı"na tıklayın.
+
+4. "Klavye" seçeneğine tıklayın ve ekran klavyesini kullanmak için açma düğmesine basın.
+
+Bu adımları takip ettiğinizde, ekranınızda kullanabileceğiniz bir klavye belirecektir. 
+Bu klavye, ekrandaki metin alanlarına yazı yazmak için kullanılabilir.
+
+![resim](https://i.ibb.co/0G8tMzT/22-Word-Screen-Keyboard.png)
+
+## Ekran Klavyesinin Kullanımına Dair Notlar
+
+• Ekran klavyesi, fiziksel klavyeye oldukça benzerdir. Parmaklarınızla yazabilirsiniz, ancak bu hız, gerçek bir klavye ile karşılaştırıldığında daha düşük olacaktır.
+  
+• Bazı özel tuşlara (Fonksiyon tuşları, kursor tuşları vb.) erişmek zor olabilir. 
+Bazen farklı bir dokunmatik ekran klavye düzenine geçerek bu tuşlara ulaşabilirsiniz, ancak çoğu zaman bu tuşlar mevcut olmayabilir.
+
+• Ekran klavyesinde Ctrl tuşunu kullanmak iki adım gerektirir: Önce Ctrl tuşuna basın, ardından başka bir tuşa basın.
+
+• Word'deki bazı Ctrl kombinasyonları, ekran klavyesi ile gerçekleştirilemeyebilir.
+
+# Microsoft Word'de Fare Kullanımı: Temel Bilgiler ve İpuçları
+
+Bu yazıda, Microsoft Word'de fare kullanımının önemini ve fare türlerini detaylı bir şekilde ele alacağız. 
+
+## Fare Nedir?
+
+Fare, bilgisayar ekranında imleci hareket ettirmek ve komutlar girmek için kullanılan bir giriş cihazıdır. 
+Farenizi düz bir yüzeyde (masa veya masaüstü gibi) hareket ettirerek, ekrandaki imleci kontrol edebilirsiniz. 
+"Fare" ismi, cihazın küçük, kablolu ve oval şekli nedeniyle verilmiştir. 
+Modern fareler, ekstra butonlar gibi yerleşik işlevlere sahip olabilir ve bu butonlar çeşitli amaçlar için programlanabilir.
+
+## Fare Türleri
+
+Farklı fare türleri, kullanıcı deneyimini etkileyen çeşitli özelliklere sahiptir. İşte en yaygın üç fare türü:
+
+1. Mekanik Fare
+
+Mekanik fareler, altında bir trackball bulunan ve hareketi algılamak için mekanik sensörler kullanan cihazlardır. 
+Bu tür fareler, tüm yönlerde kolay hareket sağlamak için tasarlanmıştır.
+
+2. Optomekanik Fare
+
+Optomekanik fareler, mekanik farelerin özelliklerini taşır ancak hareket algılamak için optik sensörler kullanır. 
+Bu sayede daha hassas bir kontrol sunar.
+
+3. Optik Fare
+
+Optik fareler, en pahalı olanlarıdır ve hareket algılamak için lazer teknolojisi kullanır. 
+Bu fareler, hareketli parça içermediği için daha dayanıklıdır ve önceki türlerden daha hızlı tepki verir.
+
+## Fare İmleçlerinin Anlaşılması
+
+Fare imleci, bilgisayar ekranında görünen bir nesnedir ve kullanıcının fareyi hareket ettirmesiyle birlikte ekran üzerinde dolaşır. 
+İmleç genellikle bir ok veya el şeklindedir ve ekran üzerindeki konumunu gösterir. 
+Metin düzenleme işlemlerinde fare imleci farklı şekillerde görünebilir:
+
+• Metin Düzenleme: Metin düzenlemek istediğinizde, fare imleci "i-kemeri" (i-beam) şeklini alır.
+
+• El İmleci: Bazı belgelerde, kullanıcılar el imlecini görebilir.
+
+• Seçim İşlemleri: Metin satırlarını seçmek istediğinizde, fare imlecini belirli bir konumda kullanarak seçim yapabilirsiniz.
+
+![resim](https://i.ibb.co/NSP618P/depositphotos-536039480-stock-illustration-cursor-mouse-pointer-click-hand.webp)
+
+## Fare Kullanımında Dikkat Edilmesi Gerekenler
+
+• Doğru Yüzey: Farenizin düzgün çalışabilmesi için düz ve pürüzsüz bir yüzeyde kullanılması önemlidir.
+
+• Hassasiyet Ayarları: Farenizin hassasiyet ayarlarını gerektiği gibi düzenleyerek daha iyi bir deneyim elde edebilirsiniz.
+
+• Ekstra Butonlar: Farenizde bulunan ekstra butonları kullanarak sık kullandığınız işlevlere hızlı erişim sağlayabilirsiniz.
+
+## Klavye İpuçları
+
+Microsoft Word, belgelerinizi oluşturmak ve düzenlemek için güçlü bir araçtır. Bu yazıda, fare kullanımının yanı sıra klavye ile ilgili bazı önemli ipuçlarını ele alacağız. Bu bilgiler, Word'de daha verimli çalışmanıza yardımcı olacaktır.
+
+## Klavye Kullanımında Dikkat Edilmesi Gerekenler
+
+Klavye kullanımı, Microsoft Word'de etkili bir şekilde çalışmanın temel unsurlarından biridir. 
+Aşağıda, klavye ile ilgili bazı önemli "yapılması gerekenler" ve "yapılmaması gerekenler" bulunmaktadır.
+
+## 1. İmleç Takibi
+
+Yazdığınız metin, imleç (insertion point) tarafından belirlenen noktada görünür. 
+İmleci hareket ettirdiğinizde, ekranda dikey bir çubuk şeklinde görünür ve her harf eklendiğinde sağa doğru kayar. 
+Bu, metin eklemek için gereken alanı oluşturur. İmleci istediğiniz yere taşımak için fareyi kullanabilir veya klavye ok tuşlarıyla hareket ettirebilirsiniz.
+
+## 2. Boşluk Tuşunun Kullanımı
+
+Boşluk tuşu (space bar), metin içinde boşluk bırakmak için kullanılır. 
+Klavyenin alt sırasındaki uzun yatay çubuk şeklindeki bu tuş, kelimeler arasında hızlıca boşluk eklemek için idealdir. 
+Yazarken, kelimeler arasında yalnızca bir kez boşluk bırakmanız gerektiğini unutmayın; her kelime ve noktalama işaretinden sonra sadece bir boşluk olmalıdır.
+
+## 3. Silme Tuşları: Backspace ve Delete
+
+Yazarken hata yaptığınızda, klavyenizdeki Backspace tuşunu kullanarak hataları düzeltebilirsiniz. 
+Backspace tuşuna bastığınızda, imleciniz bir karakter geri gider ve o karakter silinir. Bu işlem, metin içinde geri dönerek düzeltme yapmanıza olanak tanır.
+
+Delete tuşu ise farklı bir işlevselliğe sahiptir. Delete tuşuna bastığınızda, imlecin sağındaki karakter silinir. 
+Bu özellik, metin düzenlemeleri yaparken hızlı bir şekilde içerik kaldırmanıza yardımcı olur.
+
+## 4. Enter Tuşunun Kullanımı
+
+Enter tuşu, metin işleme sırasında önemli bir rol oynar. 
+Bu tuş, yazdığınız veriyi veya talimatı bilgisayara iletmek için kullanılır. 
+Word'de Enter tuşunu yalnızca bir cümlenin sonuna geldiğinizde kullanmalısınız.
+
+Eğer metniniz sağ kenar boşluğuna çok yakınsa, Word otomatik olarak son kelimelerinizi bir sonraki satıra aktarır. 
+Bu nedenle, bir satırın sonunda Enter tuşuna basmanıza gerek yoktur; bu özellik satır kaydırma (word wrap) olarak bilinir.
+
+## Yazarken Karşılaştığınız Olaylar
+
+Yazarken, ekranda bazı olaylar meydana gelir. Klavyenizdeki tuşlara hızlıca basarken, ekranda bazı noktalar, çizgiler ve kutular görebilirsiniz. 
+İşte yazma sürecinde karşılaşabileceğiniz bazı önemli durumlar:
+
+## a. Metin Tahmini
+
+Microsoft Word, yazma hızınızı artırmanıza yardımcı olmak için metin tahmini özelliğini sunar. 
+Yazarken, uygulama bir sonraki kelimenizi tahmin eder ve önerir. Bu önerileri kabul ederek yazım sürecinizi hızlandırabilirsiniz. 
+Önerilen metni kabul etmek için Tab veya sağ ok tuşunu kullanabilirsiniz. Öneriyi reddetmek için ise Esc tuşuna basmanız yeterlidir.
+
+## b. Durum Çubuğunu İzleme
+
+Durum çubuğu, bir pencerenin altında bulunan grafiksel bir kontrol elemanıdır ve belgenizin durumu hakkında bilgi verir. 
+Yazarken durum çubuğu, belgenizin içeriğiyle ilgili çeşitli bilgileri gösterir. 
+Durum çubuğunda görünen bilgileri değiştirebilir ve istediğiniz bilgileri gruplandırabilirsiniz.
+
+Durum çubuğunun ana görevi, o anki pencerenin durumunu göstermektir. 
+Bazı durum çubukları ek özellikler de içerebilir; örneğin, birçok web tarayıcısı güvenlik veya gizlilik bilgilerini göstermek için tıklanabilir bölümler sunar.
+
+## Ek Bilgiler
+
+### 1. Daraltılabilir Başlıklar
+
+Belgenizde bazı başlıkların solunda küçük bir üçgen görebilirsiniz. Bu üçgenler, başlık altındaki metnin görünürlüğünü kontrol etmenizi sağlar. Üçgene tıkladığınızda başlık altındaki metin gizlenir, tekrar tıkladığınızda ise görünür hale gelir. Bu özellik, uzun belgelerde gezinmeyi ve okunabilirliği artırır.
+
+### 2. Metindeki Noktalar ve İşaretler
+
+Yazarken metninizde noktalar veya işaretler görürseniz, bu bir sorun olduğunu göstermez. 
+Bu işaretler, normalde gizli olan karakterleri temsil eder. 
+Boşluklar, sekmeler, enter tuşu gibi karakterler, "Show/Hide" özelliği etkinleştirildiğinde görünür hale gelir. 
+Bu işaretleri gizlemek için "Show/Hide" butonuna tekrar tıklamanız yeterlidir.
+
+### 3. Alt Çizgilerin Renkleri
+
+Word, metninizin altını izinsiz bir şekilde çizdiğinde, bir şeylerin yanlış olduğunu size bildiriyor demektir. 
+Bu alt çizgiler, metin stillerinden farklıdır ve şu anlamlara gelir:
+
+* Kırmızı Zigzag: Yazım hatası olduğunu gösterir.
+* Mavi Zigzag: Dil bilgisi veya kelime seçimi hatası olduğunu gösterir.
+* Mavi Düz Çizgi: Web sayfası adreslerini gösterir. Ctrl tuşuna basılı tutarak mavi çizgili metne tıkladığınızda, ilgili web sayfasına yönlendirilirsiniz.
+* Kırmızı Çizgiler: Kenar boşluğunda, metnin altında veya metnin üzerinde kırmızı çizgiler görüyorsanız, Word'de "Değişiklikleri İzle" özelliğinin etkin olduğunu gösterir.
+
