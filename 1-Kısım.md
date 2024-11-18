@@ -256,3 +256,51 @@ Yeni bir belge oluşturduktan sonra, belgenizi kaydetmek önemlidir. İlk kez ka
 Bu adımları takip ederek belgenizi güvenli bir şekilde kaydedebilirsiniz.
 
 ![resim](https://i.ibb.co/hMqwZ3D/18-Word-Save.png)
+
+# Microsoft Word'de Metin Boyutunu Değiştirme ve Programı Kapatma
+
+Bu yazıda, metin boyutunu nasıl değiştirebileceğinizi, programı nasıl kapatacağınızı ve belgelerinizi nasıl daha verimli kullanabileceğinizi öğreneceksiniz.
+
+## Metin Boyutunu Değiştirme
+
+Metin boyutunu değiştirmek için font boyutunu ayarlamak zorunda değilsiniz. B
+unun yerine, zoom (büyütme) komutunu kullanarak belgenizin görünümünü kolayca ayarlayabilirsiniz. 
+Zoom komutu, sunumunuzu büyütmek veya küçültmek için kullanışlıdır, böylece üzerinde çalıştığınız bilgileri daha net görebilirsiniz.
+
+## Zoom Komutunu Kullanma
+
+1. View Sekmesi: Microsoft Word'ün üst kısmındaki menü çubuğunda "View" sekmesine tıklayın.
+
+2. Zoom Seçeneği: Açılan menüden "Zoom" seçeneğini bulun ve tıklayın.
+
+3. Büyütme veya Küçültme: İstediğiniz büyütme oranını seçin veya özel bir değer girerek metni büyütün ya da küçültün.
+
+Bu adımlar sayesinde, belgenizin görünümünü istediğiniz gibi ayarlayabilirsiniz.
+
+![resim](https://i.ibb.co/b1J9cpM/19-Word-View-Zoom.png)
+
+## Microsoft Word'ü Kapatma
+
+Word ile çalışmayı tamamladığınızda, programı kapatmak en iyi uygulamadır. 
+Eğer tekrar kullanmayı düşünmüyorsanız, programı kapatmak için şu adımları izleyin:
+
+1. Kapatma İkonu: Ekranın sağ üst köşesinde bulunan "X" simgesine tıklayın.
+
+2. Belgeleri Kaydetme: Tüm açık Word belgelerini kapatmadan önce, üzerinde çalıştığınız belgeleri kaydettiğinizden emin olun. 
+
+Unutmayın ki, açık olan tüm Word belge pencerelerini kapatmadan programı kapatamazsınız. Bu nedenle, işlerinizi kaydetmek her zaman iyi bir uygulamadır.
+
+## Word Belgesini Kenara Alma
+
+Eğer başka işler yapmak istiyorsanız, Word belgenizi minimize edebilirsiniz. 
+Bu işlem, program penceresini küçülterek görev çubuğuna yerleştirir. Böylece bilgisayarınızda başka uygulamalarla çalışmaya devam edebilirsiniz.
+
+## Minimize Etme ve Maksimize Etme
+
+1. Minimize Butonu: Ekranın sağ üst köşesinde bulunan minimize butonuna (genellikle bir '-' simgesi) tıklayın. Bu işlem belgenizi görev çubuğuna küçültür.
+
+2. Maksimize Butonu: Belgenizi tekrar tam ekran olarak görmek istediğinizde, görev çubuğundaki Word simgesine tıklayarak belgeyi geri getirebilirsiniz. 
+
+Bu iki işlem sayesinde, Word belgenizi kolayca yönetebilir ve aynı anda diğer işlerinizle ilgilenebilirsiniz.
+
+![resim](https://i.ibb.co/7tFw6wQ/20-Word-Min-Max.png)
