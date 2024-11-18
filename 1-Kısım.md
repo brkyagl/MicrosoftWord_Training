@@ -163,3 +163,43 @@ Görünüm sekmesinde, tek sayfa ve çift sayfa arasında geçiş yapabilirsiniz
 Ayrıca, düzenleme araçlarının nasıl çalıştığını değiştirmek için çeşitli ayarlar yapabilirsiniz. 
 
 ![resim](https://i.ibb.co/wY3Yj6h/13-Word-View.png)
+
+# Microsoft Word: Temel Araçlar 
+
+Microsoft Word, metin belgeleri oluşturmak ve düzenlemek için en yaygın kullanılan kelime işlemci programlarından biridir. 
+Bu yazıda, Microsoft Word'ün temel bileşenlerini ve kullanımını detaylı bir şekilde ele alacağız.
+
+## Hızlı Erişim Araç Çubuğu
+
+Hızlı Erişim Araç Çubuğu, en sık kullandığınız araçların simgelerini barındıran bir bölümdür. 
+Bu çubuğa, sıkça kullandığınız düğmeleri ekleyebilir ve bu düğmeleri daha büyük hale getirerek görünürlüğünü artırabilirsiniz. 
+Hızlı Erişim Araç Çubuğu, iş akışınızı hızlandırmak için önemli bir özelliktir ve ihtiyaçlarınıza göre özelleştirilebilir.
+
+![resim](https://i.ibb.co/QnvJhbK/14-Word-Quick-Access-Toolbar.png)
+
+## Şerit (Ribbon)
+
+Word'ün şeridi, kullanıcı arayüzünün temel bileşenlerinden biridir. 
+Şerit, butonlar, giriş kutuları veya menüler şeklinde işlev görebilir. 
+Şerit, sekmelere ayrılmıştır ve her sekme kendi komut gruplarını içerir. 
+İhtiyacınız olan aracı bulmak için bir sekmeye tıklayabilir ve ardından grup adlarına göz atarak ilgili butonu seçebilirsiniz. 
+Bu şekilde, istediğiniz komutu kolayca etkinleştirebilirsiniz.
+
+## Durum Çubuğu
+
+Durum çubuğu, Word penceresinin en altında bulunan bir çubuktur. 
+Sol ve sağ tarafında çeşitli bilgiler ve simgeler barındırır. Sol tarafta, belgenizdeki sayfa sayısı ve kelime sayısı gibi istatistikler gösterilir. 
+Ayrıca, dil bilgisi ve yazım denetimi araçlarıyla çalışmak için dil bilgisi simgesine tıklayarak bu özelliklere erişebilirsiniz.
+
+Durum çubuğunun sağ tarafında, belgenizi görüntüleme şeklinizi değiştirmek için kullanabileceğiniz bazı simgeler bulunmaktadır. 
+Genellikle üç farklı görünüm mevcuttur: 
+
+1. Yazdırma Görünümü: Belgenizin düzenini gözden geçirmek ve sayfaların nasıl görüneceğini görmek için kullanılır.
+
+2. Okuma Modu: Dergi benzeri bir düzen sunarak metni daha rahat okumanızı sağlar.
+
+3. HTML Görünümü: Metnin bir tarayıcıda nasıl görüneceğini gösterir.
+
+Ayrıca, durum çubuğunun sağ tarafında bulunan bir zoom kaydırıcısı ile belgenizin boyutunu ayarlayarak daha iyi bir görünüm elde edebilirsiniz.
+
+![resim](https://i.ibb.co/WPxX91m/15-Word-Status-Bar.png)
