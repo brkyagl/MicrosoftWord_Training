@@ -35,3 +35,5 @@ Kısayol Stil : (Alt + CTRL + SHIFT + S)
 5. Uygula ve Kaydet: Ayarları yaptıktan sonra "Tamam" butonuna tıklayarak stilinizi kaydedin ve belgenize uygulayın.
 
 ![resim](https://i.ibb.co/b1jX4x0/28-Word-Style-Apply.png)
+
+.
