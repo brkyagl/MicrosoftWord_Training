@@ -36,4 +36,42 @@ Kısayol Stil : (Alt + CTRL + SHIFT + S)
 
 ![resim](https://i.ibb.co/b1jX4x0/28-Word-Style-Apply.png)
 
-.
+## Tema Uygulama
+
+Tema uygulamak için:
+
+1. Design Sekmesine Gidin: Word'un üst kısmındaki "Design" sekmesine tıklayın.
+
+2. Tema Seçimi: Temalar grubunda istediğiniz temayı seçin. Her bir tema, belgenizin genel görünümünü anında değiştirecektir.
+
+3. Özelleştirme: İsterseniz temanın renklerini ve yazı tiplerini özelleştirerek kendi tarzınıza uygun hale getirebilirsiniz.
+
+## Stil Galerisinden Stil Kaldırma
+
+Bir stili stil galerinizden kaldırmak isterseniz:
+
+1. Stili Seçin: Kaldırmak istediğiniz stili sağ tıklayın.
+
+2. Kaldırma Seçeneği: Açılan menüden "Remove from Style Gallery" seçeneğine tıklayın.
+
+![resim](https://i.ibb.co/J5pv9Tf/29-Word-Style-Remove.png)
+
+## Word Başlıkları ile Belge Oluşturma
+
+Belgenizde başlıklar oluşturmak, içeriğinizi düzenlemenin ve okunabilirliğini artırmanın harika bir yoludur. 
+Başlıkları oluşturmak için şu adımları izleyebilirsiniz:
+
+1. Home Sekmeye Gidin: Word'un ana sekmesindeki "Styles" sekmesine gidin.
+
+2. Başlık Seçimi: Stil grubunda, bölüm başlıklarınızı seçin ve "Heading 1" stiline tıklayın.
+
+3. Alt Başlıklar İçin Heading 2 Kullanımı: Alt başlıklarınız için aynı işlemi yaparak "Heading 2" stilini seçin.
+
+4. Alt Alt Başlıklar İçin Heading 3 Kullanımı: Alt alt başlıklarınızı da "Heading 3" stiline tıklayarak oluşturun. Bu adımları son başlıklarınıza kadar devam ettirin.
+
+-> Başlıkları Özelleştirme
+
+Başlıklarınızı özelleştirmek isterseniz, yukarıda açıklanan stil değişikliği adımlarını takip ederek başlık stillerini dilediğiniz gibi düzenleyebilirsiniz.
+
+![resim](https://i.ibb.co/C29pW6y/30-Word-Styles-Modify.png)
+
