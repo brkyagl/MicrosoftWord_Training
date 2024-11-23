@@ -75,3 +75,76 @@ Başlıklarınızı özelleştirmek isterseniz, yukarıda açıklanan stil deği
 
 ![resim](https://i.ibb.co/C29pW6y/30-Word-Styles-Modify.png)
 
+Daha sonra açılan pencerede istediğiniz gibi yapılandırabilirsiniz.
+
+# Microsoft Word'de Tema Değiştirme, Özelleştirme ve Kaydetme
+
+## Tema Nedir?
+
+Tema, sayfanızın genel görünümünü değiştiren renkler, yazı tipleri ve efektlerden oluşan bir koleksiyondur. 
+Microsoft Word'de yeni bir belge oluşturduğunuzda varsayılan tema otomatik olarak kullanılır. 
+Ancak, belgenizin görünümünü kişiselleştirmek isterseniz, temayı değiştirip özelleştirebilirsiniz.
+
+## Tema Değiştirme
+
+Belgenizin temasını değiştirmek için aşağıdaki adımları izleyebilirsiniz:
+
+1. Design Sekmesine Tıklayın: Word arayüzünün üst kısmındaki "Design" sekmesine gidin.
+
+2. Themes ikonuna Tıklayın: Belge biçimlendirme grubunda "Themes" ikonunu bulun ve tıklayın.
+
+3. Açılır Listeyi İnceleyin: Bu işlemle birlikte bir açılır liste görünecektir.
+
+4. Tema Önizlemesi: Farenizi temaların üzerine getirdiğinizde, belgenizde nasıl göründüğünü önizleyebilirsiniz.
+
+5. Tema Uygulama: İstediğiniz temaya tıklayarak onu belgenize uygulayın.
+
+## Temayı Özelleştirme
+
+Bir temanın herhangi bir öğesini (örneğin, renk, yazı tipi ve efekt) değiştirerek belgeniz için benzersiz bir görünüm yaratabilirsiniz.
+
+## Tema Renklerini Değiştirme
+
+1. Design Sekmesine Gidin: Yine "Design" sekmesini açın.
+
+2. Colors İkonu Seçin: "Colors" ikonuna tıklayın; bir açılır renk paleti görünür.
+
+3. Renk Paletini Seçin: İstediğiniz renk paletini seçebilir veya "Customize Colors..." seçeneğine tıklayarak kendi renklerinizi birleştirebilirsiniz.
+
+![resim]()
+
+## Tema Yazı Tipini Değiştirme
+
+1. Design Sekmesine Gidin: "Design" sekmesini açın.
+
+2. Fonts ikonuna Tıklayın: "Fonts" komutuna tıklayın; bir açılır menü görünür.
+
+3. Yazı Tipi Seçimi: İstediğiniz tema yazı tipini seçebilir veya "Customize Fonts..." seçeneğine tıklayarak kendi yazı tipinizi belirleyebilirsiniz. Açılan diyalog kutusunda istediğiniz yazı tipini ayarlayın ve "Save" butonuna basın.
+
+![resim]()
+
+## Tema Efektlerini Değiştirme
+
+1. Design Sekmesine Gidin: "Design" sekmesini açın.
+
+2. Effects ikonuna Tıklayın: "Effects" komutuna tıklayın; mevcut tüm efektlerin bulunduğu bir açılır liste görünür.
+
+3. Efekt Seçimi: İstediğiniz efekti seçin. Üzerine geldiğinizde canlı önizlemesini görebilirsiniz.
+
+## Temayı Kaydetme
+
+Özelleştirdiğiniz veya mevcut temayı daha sonra kullanmak üzere kaydedebilirsiniz.
+
+## Tema Kaydetme Adımları
+
+1. Design Sekmesine Gidin: "Design" sekmesini açın.
+
+2. Themes ikonuna Tıklayın: Belge biçimlendirme grubunda "Themes" ikonuna tıklayın.
+
+3. Açılır Listeyi İnceleyin: Bir açılır liste görünür.
+
+4. Mevcut Temayı Kaydet: "Save Current Theme..." seçeneğini seçin.
+
+5. Dosya Adı Girin: Açılan diyalog kutusunda temanız için bir dosya adı girin ve "Save" butonuna basın.
+
+Bu adımları takip ederek Microsoft Word'de belgelerinizin temasını kolayca değiştirebilir, özelleştirebilir ve kaydedebilirsiniz. Kendi stilinizi yansıtan temalar ile belgelerinizi daha dikkat çekici hale getirebilirsiniz!
