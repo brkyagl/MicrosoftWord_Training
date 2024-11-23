@@ -61,7 +61,7 @@ Bir stili stil galerinizden kaldırmak isterseniz:
 Belgenizde başlıklar oluşturmak, içeriğinizi düzenlemenin ve okunabilirliğini artırmanın harika bir yoludur. 
 Başlıkları oluşturmak için şu adımları izleyebilirsiniz:
 
-1. Home Sekmeye Gidin: Word'un ana sekmesindeki "Styles" sekmesine gidin.
+1. Home Sekmeye Gidin: Word'un ana sekmesindeki "Styles" sekmesine gidin. (ALT + CTRL + SHIFT + S)
 
 2. Başlık Seçimi: Stil grubunda, bölüm başlıklarınızı seçin ve "Heading 1" stiline tıklayın.
 
