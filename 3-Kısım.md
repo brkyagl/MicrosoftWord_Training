@@ -148,3 +148,107 @@ Bir temanın herhangi bir öğesini (örneğin, renk, yazı tipi ve efekt) deği
 5. Dosya Adı Girin: Açılan diyalog kutusunda temanız için bir dosya adı girin ve "Save" butonuna basın.
 
 Bu adımları takip ederek Microsoft Word'de belgelerinizin temasını kolayca değiştirebilir, özelleştirebilir ve kaydedebilirsiniz. Kendi stilinizi yansıtan temalar ile belgelerinizi daha dikkat çekici hale getirebilirsiniz!
+
+# Microsoft Word'de Kağıt Boyutu, Kenar Boşlukları ve Yönlendirme Ayarları
+
+Word'de kağıt boyutu, kenar boşlukları ve belge yönlendirmesi gibi ayarları nasıl yapacağınızı adım adım açıklayacağız. 
+Bu bilgiler, belgelerinizi daha düzenli ve estetik hale getirmenize yardımcı olacaktır.
+
+## Kenar Boşlukları Nedir?
+
+Kenar boşlukları, belgenizin kenarları ile metin arasında kalan boşluklardır. 
+Üst, alt, sol ve sağ kenar boşlukları, metnin sayfanın kenarlarına çok yakın olmamasını sağlar ve belgelerinizin daha profesyonel görünmesine yardımcı olur. Microsoft Word'de varsayılan kenar boşluğu her bir kenar için 1 inç (yaklaşık 2.54 cm) olarak ayarlanmıştır. 
+Word, önceden tanımlanmış kenar boşlukları sunar; ayrıca kendi özel kenar boşluklarınızı da tanımlayabilirsiniz.
+
+## Önceden Tanımlanmış Kenar Boşluklarını Uygulama
+
+1. Layout Sekmesine Gidin: Word arayüzünün üst kısmındaki "Layout" sekmesine tıklayın.
+
+2. Kenar Boşluklarını Seçin: "Page Setup" grubunda bulunan "Margins" seçeneğine tıklayın.
+
+3. Açılır Menüden Seçim Yapın: Karşınıza çıkan listeden istediğiniz kenar boşluğu seçeneğini seçin.
+
+![resim](https://i.ibb.co/KqGdKD2/33-Word-Margins.png)
+
+## Kenar Boşluklarını Özelleştirme
+
+Kenar boşluklarınızı özelleştirmek için:
+
+1. Layout Sekmesine Gidin: "Layout" sekmesini açın.
+
+2. Kenar Boşluklarını Seçin: "Margins" seçeneğine tıklayın.
+
+3. Özel Kenar Boşluklarını Seçin: Açılan menüden "Custom Margins..." seçeneğini seçin.
+
+4. Değerleri Girin: Karşınıza çıkan diyalog kutusunda, her bir kenar için (üst, alt, sol, sağ) istediğiniz değerleri girin.
+
+5. Uygulama Seçeneğini Belirleyin: "Apply to" kutusundan hangi bölüme uygulamak istediğinizi seçin (tüm belge veya sadece seçili bölüm).
+
+6. Varsayılan Olarak Ayarla (İsteğe Bağlı): Eğer bu ayarları varsayılan olarak kaydetmek istiyorsanız "Set as Default" seçeneğini işaretleyebilirsiniz.
+
+7. Tamam'a Tıklayın: Değişikliklerinizi onaylamak için "Ok" butonuna basın.
+
+![resim](https://i.ibb.co/YhmPvDx/34-Margins-Setup.png)
+
+Not: Farklı bölümler içeren bir belgeniz varsa, önceden tanımlanmış kenar boşluğunu uygulamadan önce tüm belgeyi seçtiğinizden emin olun. 
+Aksi takdirde, Word yalnızca mevcut seçime kenar boşluğunu uygular.
+
+## Kağıt Boyutu Ayarlama
+
+Belgenizin kağıt boyutunu ayarlamak için aşağıdaki adımları izleyebilirsiniz:
+
+1.  Layout Sekmesine Gidin: "Layout" sekmesine tıklayın.
+
+2. Kağıt Boyutunu Seçin: "Size" seçeneğine tıklayın.
+
+3. Açılır Menüden Seçim Yapın: İstediğiniz kağıt boyutunu listeden seçin.
+
+![resim](https://i.ibb.co/85hmtk4/35-Word-Page-Size.png)
+
+## Kağıt Boyutunu Özelleştirme
+
+Kendi kağıt boyutunuzu tanımlamak isterseniz:
+
+1. Layout Sekmesine Gidin: "Layout" sekmesini açın.
+
+2. Kağıt Boyutunu Seçin: "Size" seçeneğine tıklayın.
+
+3. Daha Fazla Kağıt Boyutu Seçeneği: "More paper size..." seçeneğine tıklayın.
+
+4. Genişlik ve Yükseklik Değerlerini Girin: Karşınıza çıkan diyalog kutusunda genişlik ve yükseklik değerlerini girin.
+
+5. Uygulama Seçeneğini Belirleyin: "Apply to" kutusundan hangi bölüme uygulamak istediğinizi seçin.
+
+6. Varsayılan Olarak Ayarla (İsteğe Bağlı): Eğer bu boyutu varsayılan olarak kaydetmek istiyorsanız "Set as default" seçeneğini işaretleyebilirsiniz.
+
+7. Tamam'a Tıklayın: Değişikliklerinizi onaylamak için "Ok" butonuna basın.
+
+![resim](https://i.ibb.co/hYGCF36/36-Word-Page-Size.png)
+
+## Belge Yönlendirmesini Ayarlama
+
+Belgenizin yönlendirmesini değiştirmek için:
+
+1. Layout Sekmesine Gidin: "Layout" sekmesine tıklayın.
+
+2. Orientation Seçeneğine Tıklayın: "Orientation" seçeneğine tıklayın.
+
+3. Orientation Seçin: Açılan menüden "Portre" (dikey) veya "Manzara" (yatay) seçeneklerinden birini seçin.
+
+## Sayfa ve Bölüm Sonları
+
+Birden fazla sayfa ve başlık içeren belgelerde metni düzenlemek bazen zor olabilir. 
+Özellikle her bölümün yeni bir sayfada başlamasını sağlamak için sayfa sonları kullanmanız gerekir. 
+Word, başlıkların, altbilgilerin ve dipnotların tekrarlanmasını sağlar; ancak bunların ayrı bölümlerde düzenlenebilmesi için belge sonları gereklidir.
+
+## Sayfa Sonları
+
+Sayfa sonları, belgenizin gövdesini bölerken, bölüm sonları hem gövdeyi hem de başlıkları (veya bölümleri) böler.
+
+## Sayfa Sonu Türleri
+
+1. Sayfa Sonu: İmlecin bulunduğu yerden sonraki metni bir sonraki sayfaya taşır.
+
+2. Sütun Sonu: Çok sütunlu belgelerde imlecin sağındaki metni bir sonraki sütuna taşır.
+
+3. Metin Sarma Sonu: Metnin akışını kontrol eder ve belirli bir noktada metni sarar.
