@@ -111,7 +111,7 @@ Bir temanın herhangi bir öğesini (örneğin, renk, yazı tipi ve efekt) deği
 
 3. Renk Paletini Seçin: İstediğiniz renk paletini seçebilir veya "Customize Colors..." seçeneğine tıklayarak kendi renklerinizi birleştirebilirsiniz.
 
-![resim]()
+![resim](https://i.ibb.co/qyynNPd/31-Word-Color.png)
 
 ## Tema Yazı Tipini Değiştirme
 
@@ -121,7 +121,7 @@ Bir temanın herhangi bir öğesini (örneğin, renk, yazı tipi ve efekt) deği
 
 3. Yazı Tipi Seçimi: İstediğiniz tema yazı tipini seçebilir veya "Customize Fonts..." seçeneğine tıklayarak kendi yazı tipinizi belirleyebilirsiniz. Açılan diyalog kutusunda istediğiniz yazı tipini ayarlayın ve "Save" butonuna basın.
 
-![resim]()
+![resim](https://i.ibb.co/tC5D3zB/32-Word-Fonts.png)
 
 ## Tema Efektlerini Değiştirme
 
