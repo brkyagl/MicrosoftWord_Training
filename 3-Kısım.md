@@ -252,3 +252,5 @@ Sayfa sonları, belgenizin gövdesini bölerken, bölüm sonları hem gövdeyi h
 2. Sütun Sonu: Çok sütunlu belgelerde imlecin sağındaki metni bir sonraki sütuna taşır.
 
 3. Metin Sarma Sonu: Metnin akışını kontrol eder ve belirli bir noktada metni sarar.
+
+.
