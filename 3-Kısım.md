@@ -385,3 +385,4 @@ Microsoft Word'de ayrı başlık veya alt bilgi eklemek için adım adım detayl
 ## NOT : Link to Previous İşlevsiz ise
 
 Link to Previous butonu çalışmıyor ise Layout kısmında Breaks'e tıklayın daha sonra Next Page seçeneğine basın.
+
