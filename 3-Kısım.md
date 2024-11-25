@@ -382,3 +382,6 @@ Microsoft Word'de ayrı başlık veya alt bilgi eklemek için adım adım detayl
 
   2. İstediğiniz metni ekledikten sonra, düzenleme modundan çıkmak için Close Header and Footer butonuna tıklayın veya başlık/alt bilgi alanının dışına çift tıklayın.
 
+## NOT : Link to Previous İşlevsiz ise
+
+Link to Previous butonu çalışmıyor ise Layout kısmında Breaks'e tıklayın daha sonra Next Page seçeneğine basın.
