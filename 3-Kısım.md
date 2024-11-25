@@ -274,48 +274,58 @@ Genellikle nesnelerle çalışırken, metnin düzgün bir şekilde yerleşmesini
 
 ## Bölüm Kesmeleri
 
-Bölüm kesmeleri, belgelerinizi farklı bölümlere ayırarak her bölümün kendi formatına sahip olmasını sağlar. Bölüm kesmeleri de birkaç türe ayrılmaktadır:
+Bölüm kesmeleri, belgelerinizi farklı bölümlere ayırarak her bölümün kendi formatına sahip olmasını sağlar. 
+Bölüm kesmeleri de birkaç türe ayrılmaktadır:
 
-1. Sonraki Sayfa Kesmesi: Bu kesme, belgeyi yeni bir sayfaya ayırır ve her bölümün kendi başlıkları, alt başlıkları ve sayfa numaraları olmasına imkan tanır. Özellikle kitap veya rapor gibi belgelerde bölümler oluştururken kullanışlıdır.
+1. Sonraki Sayfa Kesmesi: Bu kesme, belgeyi yeni bir sayfaya ayırır ve her bölümün kendi başlıkları, alt başlıkları ve sayfa numaraları olmasına imkan tanır.
+Özellikle kitap veya rapor gibi belgelerde bölümler oluştururken kullanışlıdır.
 
-2. Sürekli Kesme: Bu tür, belge içinde yeni bir sayfa oluşturmadan bölümler arasında geçiş yapmanızı sağlar. Aynı sayfada farklı sütun düzenleri oluşturmak için idealdir.
+2. Sürekli Kesme: Bu tür, belge içinde yeni bir sayfa oluşturmadan bölümler arasında geçiş yapmanızı sağlar.
+Aynı sayfada farklı sütun düzenleri oluşturmak için idealdir.
 
 3. Çift Sayfa Kesmesi: İmleci ve sağındaki metni bir sonraki çift sayfaya taşır. Bu özellik, genellikle kitapların sol ve sağ sayfalarını düzenlerken kullanılır.
 
 4. Tek Sayfa Kesmesi: İmleci ve sağındaki metni bir sonraki tek sayfaya taşır. Bu özellik, özel düzenlemeler yaparken faydalıdır.
 
-▎Sayfa veya Bölüm Kesmesi Ekleme
+## Sayfa veya Bölüm Kesmesi Ekleme
 
 Bir sayfa veya bölüm kesmesi eklemek için şu adımları takip edebilirsiniz:
 
 1. İmlecinizi istediğiniz kesmenin yerleştirileceği noktaya getirin.
 
-2. "Düzen" sekmesine gidin.
+2. "Layout" sekmesine gidin.
 
-3. "Sayfa Yapısı" grubunda "Kesme" seçeneğini tıklayın.
+3. "Page Setup" grubunda "Breaks" seçeneğini tıklayın.
 
 4. Açılan menüden istediğiniz kesme türünü seçin.
 
-▎Başlık ve Altbilgi Ekleme
+![resim](https://i.ibb.co/dDCL85y/37-Word-Page-Breaks.png)
 
-Başlıklar, belgenizin her sayfasının üst kısmında görünen metinlerdir. Altbilgiler ise belgenizin alt kısmında yer alan bilgilerdir ve genellikle belge hakkında bilgi verir; örneğin belge başlığı, sayfa numarası veya logo gibi.
+## Başlık ve Altbilgi Ekleme
 
-▎Başlık Ekleme
+Başlıklar, belgenizin her sayfasının üst kısmında görünen metinlerdir. 
+Altbilgiler ise belgenizin alt kısmında yer alan bilgilerdir ve genellikle belge hakkında bilgi verir; örneğin belge başlığı, sayfa numarası veya logo gibi.
+
+## Başlık Ekleme
 
 Başlık eklemek için:
 
-1. "Ekle" sekmesine gidin.
+1. "Insert" sekmesine gidin.
 
-2. "Başlık" seçeneğini tıklayın.
+2. "Header" seçeneğini tıklayın.
 
 3. İstediğiniz başlık stilini seçin ve metni ekleyin.
 
-▎Altbilgi Ekleme
+![resim](https://i.ibb.co/R0fWLL1/38-Word-Header.png)
+
+## Altbilgi Ekleme
 
 Altbilgi eklemek için:
 
-1. "Ekle" sekmesine gidin.
+1. "Insert" sekmesine gidin.
 
-2. "Altbilgi" seçeneğini tıklayın.
+2. "Footer" seçeneğini tıklayın.
 
 3. İstediğiniz altbilgi stilini seçin ve gerekli bilgileri ekleyin.
+
+![resim](https://i.ibb.co/k4XFWdP/39-Word-Footer.png)
