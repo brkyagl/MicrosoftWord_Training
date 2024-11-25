@@ -329,3 +329,56 @@ Altbilgi eklemek için:
 3. İstediğiniz altbilgi stilini seçin ve gerekli bilgileri ekleyin.
 
 ![resim](https://i.ibb.co/k4XFWdP/39-Word-Footer.png)
+
+## Alternatif Yöntem
+
+Başlık veya alt bilgiyi eklemek için başka bir yöntem de mevcuttur:
+
+• Belgenizin üst veya alt kenarına çift tıklayarak başlık veya alt bilgi alanını etkinleştirin.
+
+• İstediğiniz metni ekleyin.
+
+• Alanın dışına çift tıklayarak veya Esc tuşuna basarak belgeye geri dönün.
+
+## Başlık veya Alt Bilgiyi Silme
+
+Başlık veya alt bilginizi silmek için, sadece metni silmeniz yeterlidir. Ardından başlık ve alt bilgi alanını kapatın.
+
+Microsoft Word'de ayrı başlık veya alt bilgi eklemek için adım adım detaylı bir rehber aşağıda verilmiştir. Bu rehber, Word programının İngilizce sürümünü kullanarak nasıl yapılacağını açıklamaktadır.
+
+## Ayrı Başlık veya Alt Bilgi Ekleme Adımları
+
+## 1. Sayfa Sonu Ekleme
+
+• Insert a Page Break:
+
+  1. Belgenizde, ayrı bir başlık veya alt bilgi eklemek istediğiniz yerin hemen sonuna gelin.
+
+  2. Insert sekmesine tıklayın.
+
+  3. Page Break seçeneğine tıklayın. Bu, yeni bir sayfa oluşturacak ve başlık ya da alt bilgi bölümünü ayıracaktır.
+
+## 2. Başlık veya Alt Bilgi Alanını Etkinleştirme
+
+• Activate Header or Footer:
+
+  1. Yeni sayfada, üst kısma (başlık için) veya alt kısma (alt bilgi için) çift tıklayın. Bu, başlık veya alt bilgi düzenleme modunu açar.
+
+## 3. Önceki ile Bağlantıyı Kaldırma
+
+• Disable Link to Previous:
+
+  1. Başlık veya alt bilgi düzenleme modunda iken, üstteki menüde Header & Footer veya Design sekmesine geçin.
+
+  2. Bu sekmede, Link to Previous seçeneğini göreceksiniz. Bu seçenek genellikle bir zincir simgesi ile gösterilir.
+
+  3. Link to Previous butonuna tıklayarak devre dışı bırakın. Bu işlem, yeni sayfanızın başlık veya alt bilgisinin önceki sayfalarla bağlantısını keser.
+
+## 4. Ayrı Başlık veya Alt Bilgi Ekleme
+
+• Add Separate Header or Footer:
+
+  1. Şimdi, yeni sayfanız için istediğiniz başlık veya alt bilgiyi yazabilirsiniz.
+
+  2. İstediğiniz metni ekledikten sonra, düzenleme modundan çıkmak için Close Header and Footer butonuna tıklayın veya başlık/alt bilgi alanının dışına çift tıklayın.
+
