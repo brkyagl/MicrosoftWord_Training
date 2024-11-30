@@ -430,3 +430,15 @@ Eğer bölüm numaralarını da sayfa numaranızla birlikte göstermek isterseni
 
 ![resim](https://i.ibb.co/JvbBBT5/40-Word-Page-Number-Format.png)
 
+## Sayfa Numaralarını Kaldırma
+
+Eğer belgenizden sayfa numaralarını kaldırmak istiyorsanız, aşağıdaki adımları izleyebilirsiniz:
+
+1. Sayfa Numarasını Kaldırma
+
+"Insert" sekmesine gidin ve "Page Number" seçeneğine tıklayın. Açılan menüden "Remove Page Numbers" seçeneğini seçerek tüm belgeden sayfa numaralarını kaldırabilirsiniz.
+
+2. Belirli Sayfalardan Sayfa Numarasını Kaldırma
+
+Eğer yalnızca belirli bir sayfadan sayfa numarasını kaldırmak istiyorsanız, ilgili sayfanın başlığına veya alt bilgisine çift tıklayın. Sayfa numarasını seçip "Delete" tuşuna basarak bu işlemi gerçekleştirebilirsiniz.
+
