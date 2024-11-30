@@ -489,3 +489,22 @@ Bu nedenle, belge üzerinde önemli değişiklikler yaptıktan sonra tablonuzu m
 
 Word, içindekiler tablonuzu otomatik olarak güncelleyecektir.
 
+# Microsoft Word'de Şekillere veya Nesnelere Altyazı Ekleme
+
+Altyazı, bir şekil veya nesnenin altında yer alan ve o nesne hakkında bilgi veren kısa bir açıklamadır. 
+Microsoft Word'de bir nesneye altyazı eklemek için aşağıdaki adımları izleyebilirsiniz.
+
+## Altyazı Ekleme Adımları
+
+1. Nesneyi Seçin: Altyazı eklemek istediğiniz nesneyi (şekil, tablo vb.) seçin.
+   
+2. Referanslar Sekmesine Gidin: Üst menüdeki "References" sekmesine tıklayın.
+
+3. Altyazı Ekle: "Captions" grubunda "Insert Caption" seçeneğine tıklayın.
+
+4. Altyazı Diyalog Kutusu: Bir altyazı diyaloğu açılacaktır. Burada "Label" açılır menüsünden "Şekil" seçeneğini seçin veya uygun başka bir seçenek belirleyin.
+
+5. Açıklama Yazın: "Caption" alanında, "Şekil 1" ifadesinin önüne açıklamanızı yazın. Burada noktalama işaretleri de kullanabilirsiniz.
+
+![resim](https://i.ibb.co/mDTmSLj/43-Word-Label.png)
+
