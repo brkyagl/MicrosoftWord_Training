@@ -508,3 +508,18 @@ Microsoft Word'de bir nesneye altyazı eklemek için aşağıdaki adımları izl
 
 ![resim](https://i.ibb.co/mDTmSLj/43-Word-Label.png)
 
+## Altyazıya Bölüm Numarası Eklemek
+
+Altyazınıza bölüm numarası eklemek için aşağıdaki adımları izleyin:
+
+1. Nesneyi Seçin: Altyazı eklemek istediğiniz nesneyi seçin.
+
+2. Referanslar Sekmesine Gidin: "References" sekmesine tıklayın.
+
+3. Altyazı Ekle: "Captions" grubunda "Insert Caption" seçeneğine tıklayın.
+
+4. Numaralandırma Seçenekleri: Altyazı diyaloğunda, "Numbering..." seçeneğini seçin.
+
+5. Bölüm Numarasını Dahil Et: "Include chapter number" kutusunu işaretleyin, istediğiniz ayırıcıyı seçin ve "Ok" butonuna basın.
+
+![resim](https://i.ibb.co/x7HYC8t/44-Word-Caption.png)
