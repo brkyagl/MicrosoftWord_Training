@@ -386,3 +386,47 @@ Microsoft Word'de ayrı başlık veya alt bilgi eklemek için adım adım detayl
 
 Link to Previous butonu çalışmıyor ise Layout kısmında Breaks'e tıklayın daha sonra Next Page seçeneğine basın.
 
+# Microsoft Word'de Sayfa Numarası Ekleme
+
+Microsoft Word kullanarak belgelerinize sayfa numarası eklemek, belgelerinizi daha düzenli ve profesyonel hale getirir. 
+Burada, sayfa numarası eklemek için adım adım yapmanız gerekenleri bulabilirsiniz.
+
+![resim](https://i.ibb.co/Z1fMnKg/41-Word-Page-Number.png)
+
+1. Ekle Sekmesine Tıklayın
+
+Belgelerinizi açtıktan sonra, üst menüde bulunan "Insert" sekmesine tıklayın. 
+
+2. Sayfa Numarası Butonunu Seçin
+
+"Insert" sekmesinin altında, "Header and Footer" bölümünde "Page Number" butonunu bulun. 
+Bu butona tıkladığınızda, sayfa numarasını nereye eklemek istediğinizi seçebileceğiniz bir açılır menü göreceksiniz.
+
+3. Bir Seçenek Belirleyin
+
+Açılır menüde, sayfa numarasını belgenizin üst kısmına (başlık) veya alt kısmına (alt bilgi) eklemek için çeşitli seçenekler yer alır. İstediğiniz konumu seçin.
+
+4. Sayfa Numarası Stilini Seçin
+
+Seçtiğiniz konumdan sonra, bir diyalog kutusu açılacak ve burada farklı sayfa numarası stillerini göreceksiniz. İstediğiniz stil üzerine tıklayarak seçin.
+
+5. Sayfa Numaralarını Otomatik Olarak Atama
+
+Word, seçtiğiniz stil doğrultusunda belgenizdeki tüm sayfalara otomatik olarak sayfa numarası atayacaktır. 
+Aynı zamanda, başlık ve alt bilgi alanları da aktif hale gelecektir.
+
+6. Sayfa Numarası Ayarları
+
+Sayfa numaranızın üzerine sağ tıklayarak veya "Header and Footer" sekmesindeki "Page Number" komutunu kullanarak ayarları değiştirebilirsiniz. 
+Bu işlem, yeni bir diyalog kutusunun açılmasını sağlar.
+
+6.1. Numara Formatını Seçin
+
+Diyalog kutusunda, "Page Number Format" seçeneğini belirlemek için açılır düğmeye tıklayın. Buradan istediğiniz numara formatını seçebilirsiniz.
+
+6.2. Bölüm Numaralarını Dahil Etme
+
+Eğer bölüm numaralarını da sayfa numaranızla birlikte göstermek isterseniz, "Bölüm Numarasını Dahil Et" kutusunu işaretleyin. Bu, belgenizin daha yapılandırılmış görünmesini sağlar.
+
+![resim](https://i.ibb.co/JvbBBT5/40-Word-Page-Number-Format.png)
+
