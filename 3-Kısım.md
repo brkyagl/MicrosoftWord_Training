@@ -523,3 +523,43 @@ Altyazınıza bölüm numarası eklemek için aşağıdaki adımları izleyin:
 5. Bölüm Numarasını Dahil Et: "Include chapter number" kutusunu işaretleyin, istediğiniz ayırıcıyı seçin ve "Ok" butonuna basın.
 
 ![resim](https://i.ibb.co/x7HYC8t/44-Word-Caption.png)
+
+## Microsoft Word; tablolar, kaynakça ve daha fazlası
+
+Word'ün güçlü özelliklerini kullanarak daha verimli ve profesyonel belgeler oluşturmanıza yardımcı olacak bazı ipuçları ve püf noktaları bulacaksınız.
+
+1. Şekil Tablosunun Otomatik Ekleme:
+
+Word'de, bir içerik tablosuna benzer şekilde, belgelerinize otomatik bir şekil tablosu ekleyebilirsiniz. 
+Bu özellik, özellikle görselleri (grafikler, diyagramlar, resimler vb.) içeren uzun belgelerde gezinmeyi kolaylaştırır.
+
+Şekil Tablosu Oluşturma Adımları:
+
+1. Başlık Ekleme: Word'ün "References" sekmesindeki "Captions" özelliğini kullanarak tüm şekillerinize açıklayıcı başlıklar ekleyin. Bu başlıklar şekil tablosunda görünecektir.
+2. Tabloyu Yerleştirme: Şekil tablosunun yerleştirileceği yere imlecinizi getirin. "References" sekmesinde "Captions" grubunda "Insert Table of Figures" seçeneğini bulun.
+3. Biçimlendirme: Açılan pencerede şekil tablosunun biçimini (noktalama işaretleri, numaralandırma vb.) ayarlayabilir ve önizleme yapabilirsiniz. "Ok"a tıklayarak tabloyu ekleyin.
+
+![resim](https://i.ibb.co/HYLb47n/45-Word-Figures.png)
+
+2. Kapak Sayfası Ekleme:
+
+Profesyonel görünümlü belgeler için kapak sayfası kullanmak önemlidir. Word'de çeşitli kapak sayfası şablonları bulunur.
+
+Kapak Sayfası Ekleme Adımları:
+
+1. "Ekle" Sekmesi: Word'ün "Insert" sekmesine gidin.
+2. "Sayfalar" Grubu: "Pages" grubunda yer alan "Cover Page" düğmesine tıklayın.
+3. Şablon Seçimi: Açılan menüden istediğiniz şablonu seçin. Şablonu kendi zevkinize göre düzenleyebilirsiniz (metin, resim ekleme vb.)
+
+3. Kaynakça ve Alıntı Yapma:
+
+Akademik çalışmalarda kaynak göstermek hayati önem taşır. Word, kaynak yönetimini kolaylaştıran bir araç sunar.
+
+Alıntı Ekleme Adımları:
+
+1. İmleci Yerleştirme: Alıntıyı eklemek istediğiniz yere imlecinizi getirin.
+2. "Referanslar" Sekmesi: "References" sekmesine gidin.
+3. "Alıntılar ve Kaynakça" Grubu: "Citations and Bibliography" grubunda bulunan "Insert Citations" seçeneğini tıklayın.
+4. Yeni Kaynak Ekleme: "Add New Source..." seçeneğini seçin.
+5. Kaynak Bilgileri: Açılan pencerede kaynak türünü (kitap, makale, web sitesi vb.) seçin ve gerekli bilgileri girin. "Ok"a tıklayın.
+
