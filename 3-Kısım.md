@@ -563,3 +563,18 @@ Alıntı Ekleme Adımları:
 4. Yeni Kaynak Ekleme: "Add New Source..." seçeneğini seçin.
 5. Kaynak Bilgileri: Açılan pencerede kaynak türünü (kitap, makale, web sitesi vb.) seçin ve gerekli bilgileri girin. "Ok"a tıklayın.
 
+
+Kaynakça, Alıntılanan Eserler Listesi veya Bibliyografi Ekleme:
+
+1. Alıntıları Ekleme: Word'ün yerleşik alıntı özelliğini kullanarak belgenizin gövdesine kaynaklarınızı ekleyin. (Daha önceki yanıtımda bu konuda ayrıntılı bilgi verdim.)
+2. Listeyi Yerleştirme: Kaynakça, Alıntılanan Eserler Listesi veya Bibliyografik listeyi eklemek istediğiniz yere imlecinizi yerleştirin.
+3. "Referanslar" Sekmesi: "References" sekmesine tıklayın.
+4. "Alıntılar ve Kaynakça" Grubu: "Citations and Bibliography" grubunda "Bibliography" düğmesine tıklayın.
+5. Stil Seçimi: Açılan menüden istenen stili (APA, MLA, Chicago vb.) seçin. Seçtiğiniz stil, kaynak listenizin biçimini belirleyecektir.
+
+![resim](https://i.ibb.co/QDFH1tt/46-Word-References.png)
+
+Kaynak Listesini Güncelleme:
+
+Belgenize yeni kaynaklar eklediğinizde veya mevcut kaynaklarda değişiklik yaptığınızda, kaynak listenizi güncellemeniz gerekir.
+Belgenizdeki herhangi bir alıntıya sağ tıklayıp "Edit Source" seçeneğini seçin. Kaynak bilgilerini düzenleyin ve "Ok"a tıklayın.
