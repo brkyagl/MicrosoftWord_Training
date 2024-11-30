@@ -442,3 +442,50 @@ Eğer belgenizden sayfa numaralarını kaldırmak istiyorsanız, aşağıdaki ad
 
 Eğer yalnızca belirli bir sayfadan sayfa numarasını kaldırmak istiyorsanız, ilgili sayfanın başlığına veya alt bilgisine çift tıklayın. Sayfa numarasını seçip "Delete" tuşuna basarak bu işlemi gerçekleştirebilirsiniz.
 
+# Microsoft Word'de Otomatik İçindekiler Tablosu Oluşturma
+
+Microsoft Word, belgelerinizi daha düzenli hale getirmek için otomatik veya manuel olarak içindekiler tablosu oluşturmanıza olanak tanıyan kullanışlı bir araç sunar. İçindekiler tablosu, belgelerinizdeki başlıkları ve sayfa numaralarını düzenli bir şekilde sunarak okuyucuların istedikleri bilgilere hızlıca ulaşmasını sağlar. Bu yazıda, Microsoft Word'de otomatik bir içindekiler tablosu oluşturmanın adımlarını detaylı bir şekilde inceleyeceğiz.
+
+## İçindekiler Tablosu Oluşturma
+
+1. Başlık Stillerini Kullanma
+
+Otomatik bir içindekiler tablosu oluşturmak için öncelikle belgenizdeki başlıkların Microsoft Word'ün yerleşik başlık stillerini kullanarak formatlanmış olması gerekmektedir. Belgenizi hazırlarken "Başlık 1", "Başlık 2" gibi stilleri kullanmalısınız. Bu, içindekiler tablosunun doğru bir şekilde oluşturulabilmesi için önemlidir.
+
+2. İçindekiler Tablosu Ekleme
+
+Belgenizde içindekiler tablosunu eklemek istediğiniz yere imlecinizi yerleştirin. Ardından, üst menüde bulunan "References" sekmesine gidin.
+
+• Table Of Contents butonuna tıklayın.
+
+• Açılan açılır menüden bir seçenek seçin:
+
+  • İlk iki seçenek, mevcut başlıklarınıza göre otomatik olarak bir içindekiler tablosu oluşturur.
+
+  • Üçüncü seçenek, yer tutucu metinlerle bir içindekiler tablosu ekler ve bu metinleri kendi başlıklarınızla değiştirme imkanı sunar.
+
+![resim](https://i.ibb.co/GcVZ8nP/42-Word-References.png)
+
+3. Özelleştirilmiş İçindekiler Tablosu Oluşturma
+
+Daha fazla içindekiler tablosu şablonu için Office.com adresinden seçenekleri inceleyebilirsiniz. Ayrıca "Custom Table of Contents..." seçeneğini seçerek tablonuzu özelleştirebilirsiniz. Bu işlem için bir diyalog kutusu açılacak; burada istediğiniz değişiklikleri yaparak "Ok" butonuna basabilirsiniz.
+
+4. Mevcut İçindekiler Tablosunu Silme
+
+Eğer belgenizde zaten bir içindekiler tablosu varsa ve bunu silmek istiyorsanız, "Remove Table of Contents" seçeneğini seçerek mevcut tabloyu kaldırabilirsiniz.
+
+## İçindekiler Tablosunu Güncelleme
+
+Microsoft Word, belgenizde yaptığınız değişikliklerden sonra içindekiler tablonuzu otomatik olarak güncellemez. 
+Bu nedenle, belge üzerinde önemli değişiklikler yaptıktan sonra tablonuzu manuel olarak güncellemeniz gerekecektir.
+
+1. İçindekiler Tablosunu Güncelleme
+
+İçindekiler tablonuzun üzerine imlecinizi getirin. Tablo kenarlarında üst solda butonlar belirecektir.
+
+• Update Table butonuna tıklayın.
+
+• Açılan diyalog kutusunda "All Update Table" seçeneğini seçin ve "Ok" butonuna basın.
+
+Word, içindekiler tablonuzu otomatik olarak güncelleyecektir.
+
