@@ -78,3 +78,70 @@ Microsoft Word'de tablo oluşturmak, verilerinizi düzenlemenin etkili bir yolud
 
 3. "Insert Endnot" seçeneğine tıklayın.
 
+# Microsoft Word'de Tablo Kullanımı
+
+Microsoft Word, verilerinizi düzenlemenin ve sunmanın etkili bir yolu olarak tabloları kullanmanıza olanak tanır. 
+Tabloya metin eklemekten başlayarak, tablo stillerini değiştirmeye, satır ve sütun eklemeye, silmeye ve boyutlandırmaya kadar her adımı detaylı bir şekilde ele alacağız.
+
+## 1. Tablolara Metin Ekleme
+
+Bir tabloya metin eklemek oldukça basittir. Yapmanız gerekenler:
+
+• Tablo Hücresine Metin Girişi: Tablo oluşturduktan sonra, metin eklemek istediğiniz hücreye imlecinizi yerleştirin ve normal bir şekilde yazmaya başlayın.
+Bu, diğer metin düzenleme işlemlerinde olduğu gibi çalışır.
+
+![resim](https://i.ibb.co/HpxgZQ3/51-Word-Table-Test.png)
+
+## 2. Tablo Stilleri
+
+Tablonuzun görünümünü değiştirmek için çeşitli stiller kullanabilirsiniz. Bunu yapmak için:
+
+1. Tasarım Sekmesine Git: Word şeridinde "Design" sekmesine tıklayın.
+
+2. Tablo Stilleri: Tablo stilleri grubunda, stil seçeneklerini görmek için açılır menüye tıklayın.
+
+3. Stil Seçimi: Farklı tablo stillerinden birini seçin.
+
+![resim](https://i.ibb.co/310JRrh/52-Word-Table-Design.png)
+
+-> Özel Şekillendirme
+
+• Gölgelendirme Menüsü: Belirli satır ve sütunlara özel gölgelendirme eklemek için "Shading" menüsünü kullanabilirsiniz.
+
+## 3. Tabloya Satır ve Sütun Ekleme
+
+Yeni satır veya sütun eklemek için:
+
+• Satır Ekleme: Tabloya eklemek istediğiniz satırın altına imlecinizi yerleştirin ve artı (+) simgesine tıklayın.
+
+• Sütun Ekleme: "Table Layout" sekmesine gidin ve "Raws & Columns" menüsünden “Insert Left”, ‘Insert Above’, ‘Insert Right’ or ”Insert Below” seçeneklerini kullanarak sütun ekleyin.
+
+## 4. Satır ve Sütun Silme
+
+Bir satırı veya sütunu silmek için:
+
+1. Satır veya Sütunu Seçin: Silmek istediğiniz satır veya sütunu seçin.
+
+2. Silme İşlemi: "Table Layout" sekmesinde "Delete" seçeneğini kullanın veya sağ tıklayıp açılan menüden silme işlemini gerçekleştirin.
+
+## Tablonun Tamamen Silinmesi
+
+Tablonun tamamını silmek için, "Table Layout", Ardından "Delete" tıklayıp "Delete Table" seçeneğini seçebilirsiniz.
+
+## 5. Satır, Sütun ve Tablo Boyutlandırma
+
+Tablonuzun boyutunu ayarlamak için:
+
+• Hücre Yüksekliği ve Genişliği: İmlecinizi herhangi bir hücreye yerleştirin, ardından "Layout" sekmesindeki "Cell Size" grubundan yükseklik ve genişliği ayarlayın.
+
+• Eşit Satır ve Sütun Boyutu: Tüm satırların eşit yüksekliğe sahip olması için "Distribute Rows" seçeneğini kullanın. Aynı şekilde, tüm sütunları eşit genişlikte yapmak için "Distribute Columns" seçeneğini kullanabilirsiniz.
+
+## 6. Tablonun Genel Boyutunu Değiştirme
+
+Tablonuzun genel boyutunu değiştirmek için:
+
+• Boyutlandırma Kolu: Tabloyu sağ alt köşesindeki boyutlandırma kolunu kullanarak tablonuzu yeniden boyutlandırabilirsiniz. 
+İmlecinizi bu kolun üzerine getirdiğinizde, tabloyu istediğiniz boyuta çekebilirsiniz.
+
+![resim](https://i.ibb.co/S0gz7r0/53-Word-Kol.png)
+
