@@ -275,7 +275,7 @@ Burada "Shape Fill" butonunu kullanarak şeklin iç rengini ayarlayabilir ve "Sh
 
 ![resim](https://i.ibb.co/VDsGFxZ/56-Word-Shapes-Color.png)
 
-▎Çizgi Kalınlığı ve Efektler
+## Çizgi Kalınlığı ve Efektler
 
 • Çizgi Kalınlığı: "Shape Outline" menüsünden çizgi kalınlığını ayarlayabilirsiniz. Buradan çizgi kalınlığını artırabilir veya azaltabilirsiniz.
 
