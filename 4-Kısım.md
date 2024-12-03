@@ -145,3 +145,45 @@ Tablonuzun genel boyutunu değiştirmek için:
 
 ![resim](https://i.ibb.co/S0gz7r0/53-Word-Kol.png)
 
+# Microsoft Word 2024'te Dipnot ve Son Not Ekleme 
+
+Microsoft Word, belgelerinizi zenginleştirmek için dipnot ve son not ekleme imkanı sunar. 
+Dipnotlar, sayfanın alt kısmında yer alırken, son notlar belgenin sonunda bulunur. 
+Microsoft Word 2024'te dipnot ve son not eklemek için adım adım talimatlar bulacaksınız.
+
+## Dipnot ve Son Not Nedir?
+
+• Dipnot(Endnot): Belgenin altında bulunan ve metindeki belirli bir ifade veya bilgi hakkında ek açıklama yapan notlardır.
+
+• Son Not(Footnot): Belgenin sonunda yer alır ve genellikle daha uzun açıklamalar veya kaynak bilgileri için kullanılır.
+
+## Dipnot ve Son Not Ekleme Adımları
+
+1. İmleci Yerleştirin
+
+Dipnot veya son not eklemek istediğiniz yere imlecinizi yerleştirin. 
+
+2. Referanslar Sekmesini Açın
+
+Üst menüden "References" sekmesine tıklayın. Bu sekme, dipnot ve son not eklemek için gerekli araçları içerir.
+
+3. Dipnot veya Son Not Ekleme Seçeneklerini Açın
+
+Dipnot ve son not eklemek için "Insert Endnot" veya "Insert Footnote" seçeneğine tıklayın. Bu seçenekler genellikle "Footnotes" grubunun içinde bulunur.
+
+4. Notunuzu Oluşturun
+
+Açılan diyalog kutusunda, dipnot veya son notun yerini seçin. Ayrıca numara formatı gibi diğer seçenekleri de keşfedebilirsiniz. 
+Seçimlerinizi yaptıktan sonra "Insert" butonuna tıklayın.
+
+![resim](https://i.ibb.co/tsBqFnh/54-Word-Footnot.png)
+
+5. Notunuzu Yazın
+
+İmleciniz, belirlediğiniz yeni konuma geçecektir. Burada, dipnot veya son notunuzu yazabilirsiniz. 
+Yazdıktan sonra, numaranın üzerine çift tıklayarak metninize geri dönebilirsiniz.
+
+6. Diğer Notları Ekleyin
+
+Bir sonraki dipnot veya son notu eklemek için, imlecinizi yeni bir konuma yerleştirin ve yukarıdaki adımları tekrarlayın.
+
