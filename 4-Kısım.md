@@ -244,3 +244,41 @@ Bir resmi başka bir belgeden kopyalamak için:
    
 5. Alternatif olarak, farenizle sağ tıklayıp açılan menüden "Yapıştır/Paste" seçeneğini de kullanabilirsiniz.
 
+# Microsoft Word'de Şekil Ekleme
+
+Microsoft Word, belgelerinizi görsel olarak zenginleştirmek için çeşitli şekil ekleme seçenekleri sunar. 
+Bu özellik, metinlerinizi desteklemek ve belgelerinizi daha çekici hale getirmek için idealdir. 
+Aşağıda, Microsoft Word'de şekil ekleme adımlarını detaylı bir şekilde bulabilirsiniz.
+
+## Şekil Ekleme Adımları
+
+1. Ekle Sekmesine Tıklayın: Microsoft Word belgenizi açtıktan sonra, üst menüde bulunan "Insert" sekmesine tıklayın.
+
+2. Şekil Butonunu Bulun: "Insert" sekmesi altında, "Shapes" butonunu göreceksiniz. Bu butona tıklayarak şekil seçeneklerinin bulunduğu menüyü açın.
+
+3. Şekil Seçimi: Açılan menüde, daireler, kareler, oklar ve diğer geometrik şekiller gibi birçok seçenek bulacaksınız. İstediğiniz şekli seçin.
+
+4. Şekli Belgenize Ekleyin: Seçtiğiniz şekli belgenizde istediğiniz yere yerleştirmek için tıklayın ve sürükleyin. Bu işlem, seçtiğiniz şekli belgenize ekleyecektir.
+
+![resim](https://i.ibb.co/bQVZBJr/55-Word-Shapes.png)
+
+## Şekil Düzenleme
+
+Eklediğiniz şekilleri düzenlemek için birkaç farklı seçenek mevcuttur:
+
+## Boyut ve Renk Ayarlama
+
+• Boyut Ayarlama: Şekli seçtikten sonra köşe tutamaçlarını kullanarak boyutunu değiştirebilirsiniz.
+
+• Renk Ayarlama: Şeklin rengini değiştirmek için "Shape Format" sekmesine gidin. 
+Burada "Shape Fill" butonunu kullanarak şeklin iç rengini ayarlayabilir ve "Shape Outline" butonuyla dış çerçeve rengini değiştirebilirsiniz.
+
+![resim](https://i.ibb.co/VDsGFxZ/56-Word-Shapes-Color.png)
+
+▎Çizgi Kalınlığı ve Efektler
+
+• Çizgi Kalınlığı: "Shape Outline" menüsünden çizgi kalınlığını ayarlayabilirsiniz. Buradan çizgi kalınlığını artırabilir veya azaltabilirsiniz.
+
+• Efektler: Seçilen şekle 3D efektler, gölgeler veya diğer stilistik efektler eklemek için "Shape Effects" menüsünü kullanabilirsiniz. Bu, belgenizin daha profesyonel görünmesini sağlar.
+
+![resim](https://i.ibb.co/KbBYMZv/57-Word-Shape-Outline.png)
