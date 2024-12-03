@@ -187,3 +187,60 @@ Yazdıktan sonra, numaranın üzerine çift tıklayarak metninize geri dönebili
 
 Bir sonraki dipnot veya son notu eklemek için, imlecinizi yeni bir konuma yerleştirin ve yukarıdaki adımları tekrarlayın.
 
+## Microsoft Word 2024'te Grafiksel Çalışmalar
+
+Microsoft Word 2024, belgelerinizi zenginleştirmek için çeşitli grafiksel araçlar sunar. 
+Bu araçların çoğu, "Insert" sekmesinde bulunur. Bu sekme, belgenize resimler, şekiller, metin kutuları ve daha fazlasını eklemenizi sağlar. 
+
+## Resim Ekleme
+
+Resim eklemek için öncelikle imlecinizi resmin yerleştirileceği konuma getirin. 
+Ardından, üst menüden "Insert" sekmesine tıklayın. Burada, "Pictures" seçeneğini bulacaksınız. 
+Bu seçeneğe tıkladığınızda, bilgisayarınızdan veya çevrimiçi kaynaklardan resim ekleyebilirsiniz.
+
+## Bilgisayardan Resim Ekleme
+
+1. İmleci Yerleştirin: Resmin yerleşeceği yeri seçin.
+
+2. Ekle Sekmesine Tıklayın: Üst menüden "Insert" sekmesini açın.
+
+3. Resim Ekle: "Pictures" butonuna tıklayın ve bilgisayarınızdaki uygun resmi seçin.
+
+4. Bu Cihaz Butonuna Tıklayın: Eklemek için "This Device..." butonuna tıklayın. Resim belgenizde otomatik olarak güncellenecektir.
+
+## Çevrimiçi Resim Ekleme
+
+1. Ekle Sekmesine Tıklayın: "Insert" sekmesini açın.
+
+2. Çevrimiçi Resimler Seçeneğini Bulun: "Online Pictures..." seçeneğine tıklayın.
+
+3. Arama Yapın: İlgili görseli bulmak için arama yapın ve istediğiniz resmi seçin.
+
+4. Ekle Butonuna Tıklayın: Seçtiğiniz resmi eklemek için "Insert" butonuna tıklayın.
+
+## Resimleri Düzenleme
+
+Eklediğiniz resimleri düzenlemek için, resmi tıklayıp seçin. Ardından, üst menüde açılan "Picture Format" sekmesi üzerinden çeşitli düzenleme seçeneklerine ulaşabilirsiniz. Buradan resmin boyutunu değiştirebilir, kesebilir veya filtreler uygulayabilirsiniz.
+
+## Resmi Silme
+
+Bir resmi silmek için:
+
+1. Resmi Seçin: Silmek istediğiniz resmi tıklayın.
+
+2. Silme Tuşuna Basın: Klavyenizdeki "Delete" tuşuna basarak resmi kaldırabilirsiniz.
+
+## Resmi Kopyalama ve Yapıştırma
+
+Bir resmi başka bir belgeden kopyalamak için:
+
+1. Resmi Seçin: Kopyalamak istediğiniz resmi seçin.
+
+2. Kopyalama İşlemi: Klavyenizde "Ctrl + C" tuşlarına basarak resmi kopyalayın.
+
+3. Yeni Konuma Git: Resmi yapıştırmak istediğiniz belgeye gidin.
+
+4. Yapıştırma İşlemi: Klavyenizde "Ctrl + V" tuşlarına basarak resmi yapıştırın.
+   
+5. Alternatif olarak, farenizle sağ tıklayıp açılan menüden "Yapıştır/Paste" seçeneğini de kullanabilirsiniz.
+
