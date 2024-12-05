@@ -1,4 +1,4 @@
-# Microsoft Word'de Kenarlık, Tablo ve İçindekiler Oluşturma vb...
+![image](https://github.com/user-attachments/assets/9b42ba87-1087-4815-b63b-9b3a9688c54b)# Microsoft Word'de Kenarlık, Tablo ve İçindekiler Oluşturma vb...
 
 Bu bölümde, Microsoft Word'de kenarlıklar, satırlar ve sütunlar oluşturmayı, eklemeyi ve kaldırmayı öğreneceğiz. 
 Ayrıca içerik tablosu, madde ve numaralı liste, dipnot ve sonnot ekleme gibi işlemleri de ele alacağız.
@@ -282,3 +282,41 @@ Burada "Shape Fill" butonunu kullanarak şeklin iç rengini ayarlayabilir ve "Sh
 • Efektler: Seçilen şekle 3D efektler, gölgeler veya diğer stilistik efektler eklemek için "Shape Effects" menüsünü kullanabilirsiniz. Bu, belgenizin daha profesyonel görünmesini sağlar.
 
 ![resim](https://i.ibb.co/KbBYMZv/57-Word-Shape-Outline.png)
+
+# Microsoft Word 2024'te Resim Düzeni Oluşturma
+
+Microsoft Word 2024, belgelerinizi görsel olarak zenginleştirmek için çeşitli resim düzenleme seçenekleri sunar. 
+Bu yazıda, resimlerinizi nasıl düzenleyeceğinizi, metin etrafında nasıl saracağınızı ve resimleri nasıl ölçeklendireceğinizi öğreneceksiniz.
+
+## Resim Düzeni Oluşturma
+
+Öncelikle, düzenlemek istediğiniz resmi seçin. Seçilen resmin üzerinde "Picture Format" adı verilen yeni bir sekme belirecektir. 
+Burada "Picture Styles" yanında "Picture Layout" seçeneğini bulacaksınız. Bu seçeneğe tıkladığınızda, farklı düzen seçeneklerinin yer aldığı bir liste görüntülenecektir. İhtiyacınıza uygun olanı seçin ve kutuya yeniden boyutlandırın.
+
+![resim](https://i.ibb.co/dgB1PFP/58-Word-Picture-Layout.png)
+
+## Metni Resmin Etrafında Sarma
+
+Resimlerinizi düzenlerken, metin ve resimlerin belgede düzgün bir şekilde organize edilmesi önemlidir. 
+Bu düzenleme işlemi üç ana grupta toplanabilir:
+
+1. Satır İçi: Resmin metinle birlikte hareket ettiği ve resmin bir karakter gibi davrandığı durumdur.
+
+2. Sarılmış: Metin, resmin etrafında yer alır.
+
+3. Yüzen: Resim, metnin önünde veya arkasında görünür.
+
+Bir resim düzeni oluşturmak için önce resmi seçin, ardından "Layout" sekmesine tıklayın. 
+Burada "Wrap Text" sembolüne tıklayın beğendiğinizi seçin.
+
+![resim](https://i.ibb.co/cLPWRgk/59-Word-Wrap-Text.png)
+
+## Resmi Yeniden Boyutlandırma
+
+Bir resmi seçtiğinizde, resmin etrafında sekiz adet köşe tutamağı belirir. 
+Bu tutamaklar sayesinde resmi büyütüp küçültebilirsiniz. Resmi döndürmek için resmin üst kısmındaki döndürme simgesini kullanın.
+
+## Resmi Kırpma
+
+ Bir resmi kırpmak için resmi seçin ve "Picture Format" aracında yer alan "Crop" butonuna tıklayın. 
+ Kırpma işlemini tamamlamak için "Enter" tuşuna basarak resmi kesebilirsiniz.
