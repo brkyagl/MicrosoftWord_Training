@@ -88,4 +88,3 @@ Microsoft Word'ün bu kullanıcı dostu arayüzü, belge oluşturma sürecinizi 
 çeşitli şablon ve kılavuzlarla da iş akışınıza destek olur. Böylece, hem profesyonel hem de akademik çalışmalarda verimliliğinizi artırabilirsiniz...
 
 
-.
