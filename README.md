@@ -85,4 +85,4 @@ Sıkça açılan belgeleri, "Recent" listesinin yanında yer alan "Pinned" kısm
 ## Kolay Erişim ve Kullanıcı Dostu Arayüz
 
 Microsoft Word'ün bu kullanıcı dostu arayüzü, belge oluşturma sürecinizi kolaylaştırırken, 
-çeşitli şablon ve kılavuzlarla da iş akışınıza destek olur. Böylece, hem profesyonel hem de akademik çalışmalarda verimliliğinizi artırabilirsiniz..
+çeşitli şablon ve kılavuzlarla da iş akışınıza destek olur. Böylece, hem profesyonel hem de akademik çalışmalarda verimliliğinizi artırabilirsiniz...
