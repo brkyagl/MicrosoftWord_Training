@@ -108,3 +108,97 @@ Bir belge oluşturmak için harcadığınız zaman ve emeği korumak, pek çok k
   Bu özellik, belgenizin her açılışında kazara düzenlenmesini engeller. Belge her açıldığında, yalnızca okunur olarak açılacağını belirten bir iletişim kutusu görüntülenir. Devam etmek için **Yes** butonuna basmanız yeterlidir.
 
 Seçiminiz doğrultusunda tüm yönlendirmeleri takip edin. Güvenlik ayarlarının etkili olabilmesi için belgenizi kapatın. MS Word’ün sunduğu bu güçlü güvenlik özellikleri, belgelerinizi korumanıza yardımcı olacak ve içeriklerinizin güvenliğini sağlamada önemli bir rol oynayacaktır.
+
+# Microsoft Word Belgenizi Kapatma ve Kurtarma Yöntemleri
+
+Word belgenizi tamamladıktan sonra, belgelerinizi kapatmak ve kaydetmek çoğu kullanıcı için önemli bir adımdır.
+Yanlışlıkla belgeyi kapatmadan önce değişiklikleri kaydetmeyi unuttuysanız, Microsoft Word'un sunduğu otomatik kaydetme özelliği sayesinde belgenizi geri alabilirsiniz. İşte bu süreçle ilgili adım adım rehber.
+
+## Word Belgenizi Kapatma
+
+Belgenizi kapatmak için aşağıdaki yöntemlerden birini kullanabilirsiniz:
+
+1. **Kapat Butonunu Kullanma**  
+   Word penceresinin sağ üst köşesindeki **X** butonuna tıklayarak belgenizi kapatabilirsiniz.
+
+2. **Dosya Sekmesi ile Kapatma**  
+   Sol üst köşedeki **File** sekmesine tıklayın ve sol panelde **Close** seçeneğini belirleyin.
+
+3. **Klavye Kısayolları**  
+   Alternatif olarak, **Ctrl + F4** veya **Ctrl + W** kısayollarını kullanabilirsiniz.
+
+### Uyarılar
+
+Eğer belgenizi kaydetmeden kapatmaya çalışırsanız, Microsoft Word size bir uyarı mesajı gösterir. 
+Bu mesaj, değişikliklerinizi kaydetmediğinizde bilgilendirilmenizi sağlar.
+
+## Kaydedilmemiş Belgeleri Kurtarma
+
+Eğer belgenizi kaydetmeden kapatırsanız endişelenmeyin. 
+Word, kaydedilmemiş son değişiklikleri geri almak için bir otomatik kaydetme özelliği sunmaktadır. 
+Kaydedilmemiş belgelerinizi kurtarmak için şu adımları izleyin:
+
+1. **Dosya Sekmesine Git**  
+   Word penceresinin sol üst köşesindeki **File** sekmesine tıklayın ve ardından **Open** sekmesine gidin.
+
+2. **Kayıtlı Belgeleri Geri Alma**  
+   Açılan **Open** panelinde, en altta bulunan **Recover Unsaved Documents** butonuna tıklayın.
+
+3. **Kayıtlı Olmayan Belgeler Listesi**  
+   Karşınıza kaydedilmemiş belgelerin listesi ile birlikte bir konum diyaloğu açılacaktır. 
+
+4. **Kurtarılacak Belgeyi Seçin**  
+   Muhtemelen kaydedilmemiş belgeyi seçin. Belgenin tarihini kontrol ederek hangi belgenin en son kaydedilmiş olabileceğini görebilirsiniz. Seçtiğiniz belgeye tıklayarak **Open** butonuna basın.
+
+5. **Belgeyi Kaydetme**  
+   Açılan belgeyi dilediğiniz gibi kaydedin. 
+# Microsoft Word'de Kaydedilmiş Belgelerin Açılması
+
+Microsoft Word, oluşturduğunuz belgeleri kolay bir şekilde tekrar açmanızı sağlayan pratik yöntemler sunar. Belgenizi Word uygulamasından ya da doğrudan cihazınızdan nasıl açabileceğinizi öğrenmek için aşağıdaki adımları takip edin.
+
+## Word Uygulamasından Belgeleri Açma
+
+Mevcut bir belgeyi Word uygulamasından açmak için:
+
+1. **Dosya Sekmesine Git**  
+   Sol üst köşedeki **File** sekmesine tıklayın ve ardından **Open** seçeneğine tıklayın.
+
+2. **Açılan Panel**  
+   **Open** paneli açılacaktır. Buradan belgenizin bulunduğu konumu seçin.
+
+3. **Belge Seçimi**  
+   Açılan diyalog kutusu ile, belgeyi bulmak istediğiniz klasöre gidin.
+   Cihazınızın sol tarafındaki konum listesini kaydırarak istediğiniz belgeyi bulabilirsiniz.
+
+5. **Belgeyi Açma**  
+   Belgenizi seçtikten sonra **Open** butonuna tıklayın.
+
+### Hızlı Erişim İçin Son Açılan Belgeler
+
+Eğer belgenizi daha önce açtıysanız veya **sabitlenmiş** (pinned) olarak işaretlediyseniz, belgenize hızlı bir şekilde erişebilirsiniz. Bunu yapmak için:
+
+- **Son Açılan veya Sabitlenmiş Listesine Gidin**  
+   Backstage ana panelinde, son açılan veya sabitlenmiş belgelerinizi görebileceğiniz bir liste bulunur. Buradan belgenizi bulup tıklayarak açabilirsiniz.
+
+- **Belgeyi Sabitleme**  
+   Eğer belgeyi sık kullanıyorsanız, belgeyi sabitlemek iyi bir seçenek olacaktır. Bunu yapmak için:
+  - **Son Belgeler Listesini Bulun**  
+    İlgili belgeleri bulduğunuzda, belge üzerine gelin.
+  - **Sabitleme İkonuna Tıklayın**  
+    Dosyanın önündeki pin ikonuna tıklayarak belgeyi sabitleyin.
+
+## Cihazınızdan Belge Açma
+
+Kaydedilmiş bir belgeyi doğrudan cihazınızdan açmak için:
+
+1. **Word Uygulamasının Kurulu Olduğundan Emin Olun**  
+   Bilgisayarınızda Microsoft Word uygulamasının kurulu olduğundan emin olun.
+
+2. **Belgeyi Bulma**  
+   Belgelerinizi cihazınızda bulmak için dosya konumunu tarayın. Word belgesi simgesi gösteren belgeye çift tıklayarak açabilirsiniz.
+
+3. **Alternatif Açılış Yöntemi**  
+   Eğer belge Word simgesi taşımıyorsa, dosya üzerinde sağ tıklayın.
+   - **"Birlikte Aç" Seçeneğini Seçin**  
+   Açılan menüden **"Birlikte Aç"** seçeneğini seçin ve Word'u seçin.
+
