@@ -73,17 +73,38 @@ Bu komutu hızlı erişim araç çubuğuna (QAT) ekleyerek, ihtiyaç duyduğunuz
 
 1. Hızlı Erişim Araç Çubuğuna Sağ Tıklayın: Ekranın üst kısmında bulunan hızlı erişim araç çubuğuna sağ tıklayın. Bu işlemle birlikte bir diyalog kutusu açılacaktır.
 
-![resim](https://i.ibb.co/r37K1qM/61-Word-Toolbar.png)
+![resim](https://i.ibb.co/r37K1qM/61-Word-Toolbar.png)# MS Word ile Dosyanızı Güvende Tutma Yöntemleri
 
-2. Hızlı Erişim Araç Çubuğunda Diğer Komutlar Seçeneğini Seçin: Açılan menüden "More Commands..." seçeneğine tıklayın. Bu, Word seçenekleri penceresini açacaktır.
+Bir belge oluşturmak için harcadığınız zaman ve emeği korumak, pek çok kullanıcı için son derece önemlidir. Plagiarizm, dosya hırsızlığı, istem dışı değişiklikler gibi güvenlik sorunlarına karşı belgelerinizi korumak için MS Word'ün sunduğu güvenlik özelliklerinden yararlanmanız gerekmektedir. Aşağıda, belgenizi nasıl güvence altına alabileceğinize dair adım adım bir rehber sunuyoruz.
 
-3. Komutları Seçin: "Choose commands from" açılır listesinden "Commands Not in the Ribbon" seçeneğini seçin. Bu, şeritte bulunmayan tüm komutların listelendiği bir seçenek sunar.
+# Word’de Güvenlik Özelliklerini Kullanma
 
-![resim](https://i.ibb.co/zf3bm70/62-Word-Nots-Ribbon.png)
+1. **Dosya Sekmesi ile Başlayın**  
+   Word belgeniz açıkken, sol üst köşedeki **File** sekmesine tıklayın. Ardından, sol yan panelde bulunan **Info** sekmesine tıklayın.
 
-4. "Posta Alıcısına Gönder" Komutunu Bulun: Listede alfabetik olarak sıralanmış olan komutlar arasında "Send to Mail Recipient" komutunu bulun.
-Bu komut, belgenizi e-posta olarak göndermenize yardımcı olacaktır.
+2. **Belgeyi Koruma Seçenekleri**  
+   Sağ tarafta **Protect Document** butonuna tıklayın. Bu, size çeşitli güvenlik seçenekleri sunacak bir diyalog kutusu açacaktır.
 
-5. Ekle Butonuna Tıklayın: "Send to Mail Recipient" komutunu bulduktan sonra, bu komutu seçin ve ardından "Add >>" butonuna tıklayın. Bu işlem, komutu hızlı erişim araç çubuğuna ekleyecektir.
+![resim](https://i.ibb.co/hmsdqXk/63-Word-Protect.png)
 
-7. Tamam Butonuna Tıklayın: Değişikliklerinizi kaydetmek için "OK" butonuna tıklayın. Artık "Send to Mail Recipient" komutu, hızlı erişim araç çubuğunuzda görünecektir.
+### Güvenlik Seçenekleri
+
+- **Mark as Final**  
+  Bu seçenek, belgenizi yalnızca okunur hale getirir (yani, düzenleme ve yazım denetimi devre dışı bırakılır) ve okurlara belgenin son hali olduğu mesajını gösterir. Ancak, okuyucular yine de **Edit Anyway** butonuna basarak belgeyi Bu özellik, yalnızca okurlara belgenizin önerilen son versiyonu olduğunu bildirmek için kullanılmalıdır.
+
+- **Add a Digital Signature**  
+  Belgenizi dijital bir imza ile korumak, belge bütünlüğünü ve imzalayan kişinin kimliğini kanıtlamak gibi birçok avantaj sağlar. Bunun için doğrulanmış bir Microsoft ortağından dijital bir imza satın almanız gerekecek.
+
+- **Restrict Access**  
+  Bu seçenek, başkalarının belgenizi görüntülemesine izin verirken, kopyalama, değiştirme, paylaşma veya yazdırma işlemlerini engeller. Belgenizi güvence altına almak için Bilgi Hakları Yönetimi (IRM) sunucusuna bağlanmanız gerekecek.
+
+- **Restrict Editing**  
+  Bu esnek seçenek, belgenizin rastgele düzenlenmesini engelleyerek, izin verilen kullanıcıların ne tür düzenlemeler yapabileceğini kontrol etmenizi sağlar. Bu seçeneği seçtiğinizde, sağ tarafta formatlama kısıtlamaları ve düzenleme kısıtlamaları belirleyebileceğiniz bir panel açılır.
+
+- **Encrypt with Password**  
+  Belgenize bir şifre eklemek, sağladığınız güvenliğin en güçlü türlerinden biridir. Şifreyi yalnızca erişmesini istediğiniz kişilerle paylaşabilirsiniz. Şifre olmadan kimse belgenizi açamaz veya değiştiremez. Bu seçeneği seçtiğinizde, Word sizden bir şifre girmenizi ve onaylamanızı isteyecektir.
+
+- **Always Open Read Only**  
+  Bu özellik, belgenizin her açılışında kazara düzenlenmesini engeller. Belge her açıldığında, yalnızca okunur olarak açılacağını belirten bir iletişim kutusu görüntülenir. Devam etmek için **Yes** butonuna basmanız yeterlidir.
+
+Seçiminiz doğrultusunda tüm yönlendirmeleri takip edin. Güvenlik ayarlarının etkili olabilmesi için belgenizi kapatın. MS Word’ün sunduğu bu güçlü güvenlik özellikleri, belgelerinizi korumanıza yardımcı olacak ve içeriklerinizin güvenliğini sağlamada önemli bir rol oynayacaktır.
