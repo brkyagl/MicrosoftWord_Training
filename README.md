@@ -86,4 +86,3 @@ Sıkça açılan belgeleri, "Recent" listesinin yanında yer alan "Pinned" kısm
 
 Microsoft Word'ün bu kullanıcı dostu arayüzü, belge oluşturma sürecinizi kolaylaştırırken, 
 çeşitli şablon ve kılavuzlarla da iş akışınıza destek olur. Böylece, hem profesyonel hem de akademik çalışmalarda verimliliğinizi artırabilirsiniz...
-..
