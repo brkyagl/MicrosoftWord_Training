@@ -34,6 +34,46 @@ Bu kısayollar sayesinde belgelerinizi düzenlemek, yazmak ve biçimlendirmek i�
 - **Ctrl + O**: Var olan bir belgeyi açar.
 - **Ctrl + P**: Yazdırma seçeneklerini açar.
 - **Shift + Ctrl + N**: Normal stil uygular.
+  
+### Metin Seçimi Kısayolları
+
+- **Shift + Ok Tuşları**: Metin parçasını seçer (sol, sağ, yukarı, aşağı).
+- **Ctrl + Shift + Ok Tuşları**: Kelime veya paragrafları seçer (soldan sağa veya yukarıdan aşağıya).
+- **Shift + Ctrl + Sağ Ok**: Bir kelimeyi ileri seçer.
+- **Shift + Ctrl + Sol Ok**: Bir kelimeyi geri seçer.
+- **Ctrl + Shift + Yukarı Aşağı Ok**: Bir paragrafı seçer.
+
+### Metin Biçimlendirme Kısayolları
+
+- **Ctrl + 1**: Tek satır aralığı ayarı yapar.
+- **Ctrl + 2**: Çift satır aralığı ayarı yapar.
+- **Ctrl + 5**: 1.5 satır aralığı ayarı yapar.
+- **Ctrl + Shift + >**: Seçili metnin fontunu büyütür.
+- **Ctrl + Shift + <**: Seçili metnin fontunu küçültür.
+- **Ctrl + Shift + C**: Seçili metnin biçimlendirmesini kopyalar.
+- **Ctrl + Shift + V**: Kopyalanan biçimlendirmeyi uygular.
+
+### Belge Yönetimi Kısayolları
+
+- **Ctrl + F12**: Belgeleri açmak için dosya seçme penceresini açar.
+- **Ctrl + Shift + S**: Biçim stili penceresini açar.
+- **Ctrl + Alt + V**: Özel yapıştırma penceresini açar.
+- **Alt + Q**: Hızlı erişim aramasını açar.
+
+### Diğer Kısayollar
+
+- **F7**: Belgedeki yazım ve dilbilgisi denetimini başlatır.
+- **Ctrl + K**: Seçili metne köprü ekler.
+- **Ctrl + T**: Girintiyi artırır.
+- **Ctrl + Shift + T**: Girintiyi azaltır.
+- **Ctrl + M**: Seçili metnin girintisini artırır.
+- **Ctrl + Shift + M**: Seçili metnin girintisini azaltır.
+
+### Para Çizimleri ve Tablo
+
+- **Alt + Shift + F9**: Tüm alanları günceller.
+- **Ctrl + Alt + N**: Yeni tablo oluşturmaya başlar.
+- **Shift + F12**: Seçili metni tabloya dönüştürür.
 
 ## Ekstra Kısayollar
 
