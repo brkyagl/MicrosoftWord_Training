@@ -82,4 +82,4 @@ Bu kısayollar sayesinde belgelerinizi düzenlemek, yazmak ve biçimlendirmek i�
 - **F1**: Microsoft Word yardım menüsünü açar.
 - **Esc**: Aktif bir komutu iptal eder.
 
-.
+
