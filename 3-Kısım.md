@@ -1,4 +1,4 @@
-.# Microsoft Word: Stil, Tema vb.
+# Microsoft Word: Stil, Tema vb.
 
 Microsoft Word, profesyonel görünümlü belgeler oluşturmak için güçlü stil ve tema özellikleri sunar. 
 Stil, belirli bir metin veya paragraf üzerine uygulanan, yazı tipi, yazı boyutu, renk, girinti gibi tüm biçimlendirme unsurlarını içeren önceden tanımlanmış bir kombinasyondur.
