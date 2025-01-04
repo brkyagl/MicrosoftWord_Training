@@ -7,7 +7,7 @@ Amacım kelime işlemeyi kolay ve stressiz bir hale getirerek, sizi bu alanda ke
 
 Microsoft Word, Microsoft Corporation tarafından geliştirilen en popüler word processor(kelime işlemci) uygulamasıdır. 
 İlk olarak 1983 yılında piyasaya sürülen Word, Microsoft Office paketinin bir parçasıdır ve 1990'lardan bu yana dünya çapında liderliğini sürdürmektedir. 
-En son sürümleri Office 2021 ve Office 365'tir.
+En son sürümleri Offic ve Office 365'tir.
 
 ## Temel Özellikler
 
@@ -30,7 +30,7 @@ Bilgisayarınızda Office önceden yüklü değilse, `www.office.com` adresinden
 
 Her iki seçenek de güncel yazılım ve bulut hizmetleri sunar, Windows 11, 10, 8, 7 ve Mac OS X ile uyumludur.
 
-## Microsoft Office Home & Student 2021
+## Microsoft Office Home & Student 
 
 Microsoft Office Home & Student 2021, bir defaya mahsus ödeme ile satın alınabilen en son versiyondur. 
 Bu paket, yalnızca temel uygulamaları (Word, Excel, PowerPoint, Access, Outlook, OneNote, Teams ve Publisher) içerir ve yalnızca Windows 11, 10 ve macOS üzerinde kullanılabilir.
